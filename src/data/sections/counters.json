@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "value": "15",
+            "label": "Years",
+            "plus": true,
+            "title": "Professional Experience"
+        },
+        {
+            "value": "1",
+            "label": "Leading",
+            "plus": false,
+            "title": "Mechanical Contracting Company"
+        },
+        {
+            "value": "23",
+            "label": "Projects",
+            "plus": true,
+            "title": "Projects Done"
+        }
+    ]
+}

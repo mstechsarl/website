@@ -1,0 +1,78 @@
+{
+    "settings": {
+        "siteName": "MStech",
+        "preloader": {
+            "image": "/img/logo.svg",
+            "alt": "logo"
+        },
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        }
+    },
+    "header": {
+        "logo": {
+            "image": "/img/logo_ill.png",
+            "alt": "logo"
+        },
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/",
+                "children": [
+                ]
+            },
+            {
+                "label": "About",
+                "link": "/about",
+                "children": [
+                ]
+            },
+            {
+                "label": "Our Services",
+                "link": "/services",
+                "children": [
+                ]
+            },
+            {
+                "label": "Our Projects",
+                "link": "/projects",
+                "children": [
+                ]
+            },
+            {
+                "label": "Contact",
+                "link": "/contact",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "logo": {
+            "image": "/img/logo_ill.png",
+            "alt": "logo"
+        },
+        "info": {
+            "address": "45964 Gladbeck Mittelstraße 32 Deutschland",
+            "tel": "(+49) 163 4463611",
+            "tel": "(+961) 3 853545",
+            "email": "info@msteck-ing.de"
+        },
+        "copy": "MSTECH For Engineering <i class='fa-solid fa-heart'></i> © 2023All rights reserved"
+    },
+    "social": [
+        {
+            "link": "https://facebook.com",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://twitter.com",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://linkedin.com",
+            "title": "Linkedin"
+        }
+    ]
+}

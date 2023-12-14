@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "url": "/img/pic1.jpg",
+        "alt": "Image One"
+    },
+    "image2": {
+        "url": "/img/plumbing2.jpg",
+        "alt": "Image two"
+    },
+    "title": "MSTECH For Engineering provide a full range of mechanical services",
+    "subtitle": "Welcome to Our Company",
+    "text": "MSTech, established in Lebanon in 2006, is a leading mechanical contracting company specializing in planning, consultancy, project management, and installation of mechanical systems.",
+    "signature": {
+    },
+    "name": "Eng. Mostafa Shouman",
+    "role": "Founder and CEO"
+}

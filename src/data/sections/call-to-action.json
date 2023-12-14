@@ -1,0 +1,12 @@
+{
+    "title": "Ready to work together?",
+    "description": "You’re looking for a reliable mechanical Contractor or you’re looking to take the next step in your career, we want to hear from you!",
+    "image": {
+        "url": "/img/footerservice.png",
+        "alt": "image"
+    },
+    "button": {
+        "link": "/contact",
+        "label": "Build a Project"
+    }
+}

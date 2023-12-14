@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "icon": {
+                "light": "/images/icon-1.svg",
+                "dark": "/images/1-icon.png",
+                "alt": "icon"
+            },
+            "title": "We are Professional Engineers",
+            "text": "Our mechanical engineering company exemplifies professionalism through cutting-edge innovation and unparalleled expertise.",
+            "link": ""
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "icon"
+            },   
+            "title": "Licensed Company",
+            "text": "As a licensed mechanical engineering firm, we elevate professionalism with a commitment to excellence, ensuring each project meets the highest industry standards.",
+            "link": ""
+        },
+        {
+            "icon": {
+                "light": "/images/icon-2.svg",
+                "dark": "/images/2-icon.png",
+                "alt": "icon"
+            },
+            "title": "Number 1 Company In Region",
+            "text": "Number 1 Company In region, Our commitment to excellence sets us apart, delivering innovative solutions with unmatched expertise and reliability.",
+            "link": ""
+        }
+    ]
+}
