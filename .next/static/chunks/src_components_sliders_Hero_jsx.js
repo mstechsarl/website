@@ -232,7 +232,7 @@ eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* har
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = JSON.parse('{"items":[{"image":"img/plumbing2.jpg","title":" Welcome to MSTech for engineering","text":"Our Company has consistently embraced innovation to provide a superior level of excellence for our customers.","button":{"label":"Start Building","link":"/contact"}},{"image":"img/bg2.jpg","title":"A Better Way To Build Your Dreams","text":"Our Company has consistently embraced innovation to provide a superior level of excellence for our customers.","button":{"label":"Start Building","link":"/contact"}},{"image":"img/solar.jpg","title":"Very Innovation and Future Technologies","text":"Our Company has consistently embraced innovation to provide a superior level of excellence for our customers.","button":{"label":"Start Building","link":"/contact"}}]}');
+module.exports = JSON.parse('{"items":[{"image":"img/Home21.jpg","title":" Welcome to MSTech for engineering","text":"Our Company has consistently embraced innovation to provide a superior level of excellence for our customers.","button":{"label":"Contact Us","link":"/contact"}},{"image":"img/Home2.jpg","title":"A Better Way To Build Your Dreams","text":"Our Company has consistently embraced innovation to provide a superior level of excellence for our customers.","button":{"label":"Contact Us","link":"/contact"}}]}');
 
 /***/ })
 

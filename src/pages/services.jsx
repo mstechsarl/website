@@ -20,6 +20,60 @@ const Services = (props) => {
     <Layouts>
       <PageBanner pageTitle={"Services"} pageDesc={""} />
 
+ {/*About How It Works Start */}
+ <section className="gap about-how-it-works light-bg-color">
+        <div className="heading">
+          <span>Plan</span>
+          <h2>How it Works</h2>
+        </div>
+        <div className="container">
+          <figure style={{"position": "relative", "zIndex": "9"}}>
+            <img className="w-100" src="/img/pic5.jpg" alt="About How It Works" />
+          </figure>
+        </div>
+        <div className="container">
+          <div className="row g-0">
+            <div className="col-lg-3 col-md-6 col-sm-12" >
+              <div className="plans">
+                <div className="y-box d-flex-all">
+                  1.
+                </div>
+                <h3>Planning</h3>
+                <p>Precision in planning defines the excellence of our mechanical contracting company, guaranteeing seamless and successful project execution.</p>
+              </div>
+            </div>
+            <div className="col-lg-3 col-md-6 col-sm-12" >
+              <div className="plans">
+                <div className="y-box d-flex-all">
+                  2.
+                </div>
+                <h3>Consultancy</h3>
+                <p>Our consultancy services serve as the guiding force, enhancing the efficiency and success of our contracting projects through strategic insights and expert guidance.</p>
+              </div>
+            </div>
+            <div className="col-lg-3 col-md-6 col-sm-12" >
+              <div className="plans">
+                <div className="y-box d-flex-all">
+                  3.
+                </div>
+                <h3>Project Management</h3>
+                <p>Orchestrating streamlined excellence, ensuring efficient operations, and providing strategic direction for success in contracting endeavors.</p>
+              </div>
+            </div>
+            <div className="col-lg-3 col-md-6 col-sm-12" >
+              <div className="plans">
+                <div className="y-box d-flex-all">
+                  4.
+                </div>
+                <h3>Installation</h3>
+                <p>Ensuring client satisfaction, optimal system performance, compliance with regulations, and overall safety in our mechanical contracting company.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/*About How It Works End */}
+
       {/* Construction Services Start */}
       <section className="gap construction-services">
         <div className="container">

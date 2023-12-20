@@ -27,18 +27,55 @@
                 "label": "About",
                 "link": "/about",
                 "children": [
+                    {
+                        "label": "Our Company",
+                        "link": "/about#company",
+                        "children": 0
+                    },
+                    {
+                        "label": "Founder & CEO",
+                        "link": "/about#founder",
+                        "children": 0
+                    },
+                    {
+                        "label": "Mission",
+                        "link": "/about#mission",
+                        "children": 0
+                    },
+                    {
+                        "label": "Vision",
+                        "link": "/about#vision",
+                        "children": 0
+                    }
+
                 ]
             },
             {
                 "label": "Our Services",
                 "link": "/services",
                 "children": [
+                   
                 ]
             },
             {
                 "label": "Our Projects",
-                "link": "/projects",
+                "link": "",
                 "children": [
+                    {
+                        "label": "Projects in Lebanon",
+                        "link": "/projects",
+                        "children": 0
+                    },
+                    {
+                        "label": "Projects in Germany",
+                        "link": "/project_germany",
+                        "children": 0
+                    },
+                    {
+                        "label": "Manager Experience",
+                        "link": "/Manager_experience",
+                        "children": 0
+                    }
                 ]
             },
             {

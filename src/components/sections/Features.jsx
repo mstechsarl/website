@@ -8,7 +8,7 @@ const FeaturesSection = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <section className="core-features">
+    <section className="core-features gap">
         <div className="container">
         <div className="row">
             <div className="col-lg-6" >

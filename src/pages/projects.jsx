@@ -43,7 +43,7 @@ const Portfolio = (props) => {
           </div>
         </div>
         ))}
-
+{/*
         <div className="container">
           <div className="row">
             <div className="builty-pagination">
@@ -61,9 +61,11 @@ const Portfolio = (props) => {
             </div>
           </div>
         </div>
-      </section>
+        </section>
+        */}
       {/* Our Project One End */}
-      
+  
+      </section>
     </Layouts>
   );
 };

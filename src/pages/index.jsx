@@ -16,16 +16,20 @@ const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial
 const ProjectsSlider = dynamic( () => import("@components/sliders/Projects"), { ssr: false } );
 const TeamSlider = dynamic( () => import("@components/sliders/Team"), { ssr: false } );
 
+
 const Home1 = (props) => {
+ 
+
   return (
     <Layouts transparent>
       <>
         <HeroSlider />
-        <ServicesSection />
         <AboutSection />
         <CountersSection />
-        <ProjectsSlider projects={props.projects} />
         <FeaturesSection />
+        <ProjectsSlider projects={props.projects} />
+
+
       </>
     </Layouts>
   );

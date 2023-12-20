@@ -1,31 +1,21 @@
 {
-    "subtitle": "Core Features",
-    "title": "What Makes Us Differnt",
-    "yt_video_id": "uemObN8_dcw",
+    "subtitle": "",
+    "title": "What Makes Us Different",
+    "yt_video_id": "",
     "image": {
-        "url": "/img/core-feature.jpeg",
+        "url": "/img/home12.jpg",
         "alt": "image"
     },
     "items": [
         {
             "num": "01.",
-            "title": "Early Engagement",
-            "text": "Early engagement reduces project uncertainties through comprehensi scope definition and systems optimisation. The earlier you bring DES on board for your project."
+            "title": "MSTech In Lebanon",
+            "text": "Aims to provide planning, consultancy, project management and installation of mechanical systems that is not only technically and efficient but also aligns with the owner's vision, optimizes space, promotes economic efficiency, incorporates sustainable practices, and integrates well with the architectural design.."
         },
         {
             "num": "02.",
-            "title": "Integrity",
-            "text": "Early engagement reduces project uncertainties through comprehensi scope definition and systems optimisation. The earlier you bring DES on board for your project."
-        },
-        {
-            "num": "03.",
-            "title": "Solutions",
-            "text": "Early engagement reduces project uncertainties through comprehensi scope definition and systems optimisation. The earlier you bring DES on board for your project."
-        },
-        {
-            "num": "04.",
-            "title": "Innovation",
-            "text": "Early engagement reduces project uncertainties through comprehensi scope definition and systems optimisation. The earlier you bring DES on board for your project."
+            "title": "MSTech In Germany",
+            "text": "Aims to provide planning, consultancy and project management of mechanical systems for residential building, office buildings, and hotels throughout Germany."
         }
     ]
 }

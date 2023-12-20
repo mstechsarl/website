@@ -1,15 +1,15 @@
 {
     "image1": {
-        "url": "/img/pic1.jpg",
-        "alt": "Image One"
+        "url": "",
+        "alt": ""
     },
     "image2": {
-        "url": "/img/plumbing2.jpg",
-        "alt": "Image two"
+        "url": "",
+        "alt": ""
     },
-    "title": "MSTECH For Engineering provide a full range of mechanical services",
+    "title": "MSTech For Engineering provide a full range of mechanical services",
     "subtitle": "Welcome to Our Company",
-    "text": "MSTech, established in Lebanon in 2006, is a leading mechanical contracting company specializing in planning, consultancy, project management, and installation of mechanical systems.",
+    "text": "After founding MSTech in 2006 and with 15+ years we lead the expansion to key location in lebanon. Specialized in Plumbing heating, ventilation and air conditioning, MSTech is one of the leader mechanical contracting companies.In 2019, we established our branch office in Germany offering design, shopdrawings, consultancy and project management for mechanical services.Join us in shaping the future of mechanical systems through innovation and excellence.",
     "signature": {
     },
     "name": "Eng. Mostafa Shouman",

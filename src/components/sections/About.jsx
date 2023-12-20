@@ -2,8 +2,8 @@ import Data from "../../data/sections/about.json";
 
 const AboutSection = () => {
     return (
-      <section className="gap no-top about-style-one">
-        <div className="container">
+      <section className="about-style-one">
+        <div className="container gap">
           <div className="row">
             <div className="col-lg-6" >
               <div className="about-data-left">
