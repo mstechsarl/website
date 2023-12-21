@@ -1,0 +1,129 @@
+{
+  "settings": {
+    "siteName": "MStech",
+    "preloader": {
+      "image": "/img/logo.svg",
+      "alt": "logo"
+    },
+    "formspreeURL": "https://formspree.io/f/your_api_key",
+    "mailchimp": {
+      "url": "",
+      "key": ""
+    }
+  },
+  "header": {
+    "logo": {
+      "image": "/img/logo_ill.png",
+      "alt": "logo"
+    },
+    "menu": [
+      {
+        "label": "Home",
+        "link": "/de",
+        "children": []
+      },
+      {
+        "label": "Unternehmen",
+        "link": "/de/about",
+        "children": [
+          {
+            "label": "Unsere Firma",
+            "link": "/de/about#company",
+            "children": 0
+          },
+          {
+            "label": "Gründer & Geschäftsführer",
+            "link": "/de/about#founder",
+            "children": 0
+          },
+          {
+            "label": "Mission",
+            "link": "/de/about#mission",
+            "children": 0
+          },
+          {
+            "label": "Vision",
+            "link": "/de/about#vision",
+            "children": 0
+          }
+        ]
+      },
+      {
+        "label": "Leistungen",
+        "link": "/de/services",
+        "children": []
+      },
+      {
+        "label": "Projekte",
+        "link": "",
+        "children": [
+          {
+            "label": "Projekte im Libanon",
+            "link": "/de/projects",
+            "children": 0
+          },
+          {
+            "label": "Projekte im Deutschland",
+            "link": "/de/project_germany",
+            "children": 0
+          },
+          {
+            "label": "Manager Erfahrung",
+            "link": "/de/manager_experience",
+            "children": 0
+          }
+        ]
+      },
+      {
+        "label": "Contact",
+        "link": "/de/contact",
+        "children": 0
+      },
+      {
+        "label": "Deutsch",
+        "link": "/en",
+        "children": [
+          {
+            "label": "Englisch",
+            "link": "/en/",
+            "children": 0
+          },
+          {
+            "label": "Deutsch",
+            "link": "/de/",
+            "children": 0
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "image": "/img/logo_ill.png",
+      "alt": "logo"
+    },
+    "info": {
+      "address": "45964 Gladbeck Mittelstraße 32 Deutschland",
+      "tel": "(+49) 163 4463611",
+      "tel": "(+961) 3 853545",
+      "email": "info@msteck-ing.de"
+    },
+    "copy": "MSTECH For Engineering <i class='fa-solid fa-heart'></i> © 2023All rights reserved"
+  },
+  "social": [
+    {
+      "link": "https://facebook.com",
+      "title": "Facebook"
+    },
+    {
+      "link": "https://twitter.com",
+      "title": "Twitter"
+    },
+    {
+      "link": "https://linkedin.com",
+      "title": "Linkedin"
+    }
+  ],
+  "info": "Information",
+  "infoDes": "Wir bewältigen erfolgreich Aufgaben unterschiedlicher Komplexität, bieten langfristige Garantien und eignen uns regelmäßig neue Technologien an."
+}

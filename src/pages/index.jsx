@@ -1,49 +1,26 @@
-import React from "react";
-import Layouts from "@layouts/Layouts";
-import dynamic from "next/dynamic";
+// components/LanguageRedirect.js
 
-import { getSortedPostsData } from "@library/posts";
-import { getSortedProjectsData } from "@library/projects";
+import { useEffect } from "react";
+import { useRouter } from "next/router";
 
-import AboutSection from "@components/sections/About";
-import ServicesSection from "@components/sections/Services";
-import CountersSection from "@components/sections/Counters";
-import FeaturesSection from "@components/sections/Features";
+const LanguageRedirect = () => {
+  const router = useRouter();
 
-const HeroSlider = dynamic( () => import("@components/sliders/Hero"), { ssr: false } );
-const PartnersSlider = dynamic( () => import("@components/sliders/Partners"), { ssr: false } );
-const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
-const ProjectsSlider = dynamic( () => import("@components/sliders/Projects"), { ssr: false } );
-const TeamSlider = dynamic( () => import("@components/sliders/Team"), { ssr: false } );
+  useEffect(() => {
+    // Get the user's browser language
+    const userLanguage = navigator.language || navigator.userLanguage;
 
-
-const Home1 = (props) => {
- 
-
-  return (
-    <Layouts transparent>
-      <>
-        <HeroSlider />
-        <AboutSection />
-        <CountersSection />
-        <FeaturesSection />
-        <ProjectsSlider projects={props.projects} />
-
-
-      </>
-    </Layouts>
-  );
-};
-export default Home1;
-
-export async function getStaticProps() {
-  const allPosts = getSortedPostsData();
-  const allProjects = getSortedProjectsData();
-
-  return {
-    props: {
-      posts: allPosts,
-      projects: allProjects
+    // Redirect based on language
+    if (userLanguage.startsWith("de")) {
+      // Redirect to the German version
+      router.push("/de");
+    } else {
+      // Redirect to the English version (default)
+      router.push("/en");
     }
-  }
-}
+  }, [router]);
+
+  return null; // This component doesn't render anything
+};
+
+export default LanguageRedirect;

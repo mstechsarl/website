@@ -1,0 +1,21 @@
+{
+  "subtitle": "",
+  "title": "Was uns auszeichnet",
+  "yt_video_id": "",
+  "image": {
+    "url": "/img/home12.jpg",
+    "alt": "image"
+  },
+  "items": [
+    {
+      "num": "01.",
+      "title": "MSTech im Libanon",
+      "text": "Unser Ziel ist es, Planung, Beratung, Projektmanagement und Installation von mechanischen Systemen anzubieten, die nicht nur technisch effizient sind, sondern auch mit der Vision des Eigentümers in Einklang stehen, den Raum optimieren, wirtschaftliche Effizienz fördern, nachhaltige Praktiken integrieren und gut mit dem architektonischen Design harmonieren..."
+    },
+    {
+      "num": "02.",
+      "title": "MSTech im Deutschland",
+      "text": "Unser Ziel ist es, Planung, Beratung und Projektmanagement für mechanische Systeme in Wohngebäuden, Bürogebäuden und Hotels in ganz Deutschland anzubieten.."
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 import DefaultFooter from "./DefaultFooter";
 
-const Footer = ({ footer }) => {
+const Footer = ({ footer, en }) => {
   switch (footer) {
     case 1:
-      return <DefaultFooter />;
+      return <DefaultFooter en={en} />;
     default:
-      return <DefaultFooter />;
+      return <DefaultFooter en={en} />;
   }
 };
 export default Footer;

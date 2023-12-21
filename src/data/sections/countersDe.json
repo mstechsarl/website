@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "value": "15",
+      "label": "Jahre",
+      "plus": true,
+      "title": "Berufserfahrung"
+    },
+    {
+      "value": "3",
+      "label": "professionell",
+      "plus": false,
+      "title": "Beruflicher Ingenieur"
+    },
+    {
+      "value": "23",
+      "label": "Projekte",
+      "plus": true,
+      "title": "Abgeschlossene Projekte"
+    }
+  ]
+}

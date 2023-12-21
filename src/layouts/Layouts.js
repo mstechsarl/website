@@ -12,15 +12,16 @@ const Layouts = ({
   noHeader,
   noFooter,
   contactButton,
-  cartButton
+  cartButton,
+  en,
 }) => {
   useEffect(() => {
     scrollAnimation();
 
     // preloader
-    if (typeof window !== 'undefined') {
-      const loader = document.getElementsByClassName('preloader');
-      if (loader[0]) loader[0].classList.add('loaded');
+    if (typeof window !== "undefined") {
+      const loader = document.getElementsByClassName("preloader");
+      if (loader[0]) loader[0].classList.add("loaded");
     }
   }, []);
 
@@ -33,12 +34,13 @@ const Layouts = ({
           header={header}
           contactButton={contactButton}
           cartButton={cartButton}
+          en={en}
         />
       )}
 
       {children}
-      
-      {!noFooter && <Footer footer={footer} />}
+
+      {!noFooter && <Footer footer={footer} en={en} />}
 
       <button id="scrollTop" className="scrollTopStick">
         <i className="fa-solid fa-arrow-up" />

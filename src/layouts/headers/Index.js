@@ -1,12 +1,13 @@
 import DefaultHeader from "./DefaultHeader";
 
-const Header = ({ header, contactButton, cartButton }) => {
+const Header = ({ header, contactButton, cartButton, en }) => {
   switch (header) {
     case 1:
       return (
         <DefaultHeader
           contactButton={contactButton}
           cartButton={cartButton}
+          en={en}
         />
       );
 
@@ -15,6 +16,7 @@ const Header = ({ header, contactButton, cartButton }) => {
         <DefaultHeader
           contactButton={contactButton}
           cartButton={cartButton}
+          en={en}
         />
       );
   }

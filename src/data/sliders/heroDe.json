@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "image": "img/home21.jpg",
+      "title": " Willkommen bei MSTech Ingenieurwesen",
+      "text": "Unsere Firma setzt konsequent auf Innovation, um unseren Kunden ein herausragendes Maß an Exzellenz zu bieten.",
+      "button": {
+        "label": "Contact",
+        "link": "/de/contact"
+      }
+    },
+    {
+      "image": "img/Home2.jpg",
+      "title": "Ein effektiverer Weg, um deine Träume zu verwirklichen.",
+      "text": "Unsere Firma setzt konsequent auf Innovation, um unseren Kunden ein herausragendes Maß an Exzellenz zu bieten.",
+      "button": {
+        "label": "Contact ",
+        "link": "/de/contact"
+      }
+    }
+  ]
+}
