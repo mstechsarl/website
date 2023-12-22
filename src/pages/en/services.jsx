@@ -277,7 +277,7 @@ const Services = (props) => {
       */}
       {/* Service Style Two End */}
 
-      <CallToActionSection />
+      <CallToActionSection en />
     </Layouts>
   );
 };

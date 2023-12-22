@@ -1,17 +1,19 @@
-import Data from "@data/sections/call-to-action.json";
+import Data from "@data/sections/call-to-action";
+import DataDe from "@data/sections/call-to-actionDe";
 import Link from "next/link";
 
 const CallToActionSection = ({ en }) => {
+  const data = en ? Data : DataDe;
   return (
     <section className="cta-section">
       <div className="container">
         <div className="row align-items-center">
           <div className="col-lg-7">
             <div className="cta-data">
-              <h2>{Data.title}</h2>
-              <p>{Data.description}</p>
-              <Link href={Data.button.link} className="theme-btn">
-                {Data.button.label}
+              <h2>{data.title}</h2>
+              <p>{data.description}</p>
+              <Link href={data.button.link} className="theme-btn">
+                {data.button.label}
                 <i className="fa-solid fa-angles-right" />
               </Link>
             </div>
@@ -19,7 +21,7 @@ const CallToActionSection = ({ en }) => {
           <div className="col-lg-5">
             <div className="cta-data">
               <figure>
-                <img src={Data.image.url} alt={Data.image.alt} />
+                <img src={data.image.url} alt={data.image.alt} />
               </figure>
             </div>
           </div>

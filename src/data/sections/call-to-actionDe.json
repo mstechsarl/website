@@ -1,0 +1,12 @@
+{
+  "title": "Bereit, zusammenzuarbeiten?",
+  "description": "Ob Sie nach einem zuverlässigen mechanischen Auftragnehmer suchen oder den nächsten Schritt in Ihrer Karriere machen möchten – wir möchten von Ihnen hören!",
+  "image": {
+    "url": "/img/footerservice.png",
+    "alt": "image"
+  },
+  "button": {
+    "link": "/de/contact",
+    "label": "Ein Projekt realisieren"
+  }
+}

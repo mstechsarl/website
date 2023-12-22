@@ -85,7 +85,7 @@ const project_germany = () => {
       </section>
       {/* Core Values End */}
 
-      <CallToActionSection />
+      <CallToActionSection en />
     </Layouts>
   );
 };
