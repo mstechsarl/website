@@ -7,7 +7,7 @@ import { Formik } from "formik";
 const Contact = () => {
   return (
     <Layouts en>
-      <PageBanner pageTitle={Data.pageTitle} pageDesc={""} />
+      <PageBanner en pageTitle={Data.pageTitle} pageDesc={""} />
 
       {/* Contact Form 2 Start */}
       <section className="gap contact-form-2">

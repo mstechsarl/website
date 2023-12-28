@@ -18,7 +18,7 @@ const Services = (props) => {
 
   return (
     <Layouts en>
-      <PageBanner pageTitle={"Services"} pageDesc={""} />
+      <PageBanner pageTitle={"Services"} pageDesc={""} en />
 
       {/*About How It Works Start */}
       <section className="gap about-how-it-works light-bg-color">

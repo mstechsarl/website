@@ -10,6 +10,7 @@ const Team = (props) => {
       <PageBanner
         pageTitle={"Our Team"}
         pageDesc={"our values and vaulted us to the top of our industry."}
+        en
       />
 
       {/* Team Style Two Start */}

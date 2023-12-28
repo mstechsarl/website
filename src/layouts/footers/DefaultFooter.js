@@ -132,7 +132,7 @@ const DefaultFooter = ({ en }) => {
                 </ul>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-12">
+            {/* <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="footer-col">
                 <h3>Newsletter</h3>
                 <p>Signup for our weekly newsletter to get the latest news.</p>
@@ -153,7 +153,7 @@ const DefaultFooter = ({ en }) => {
                   </button>
                 </form>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
@@ -165,11 +165,7 @@ const DefaultFooter = ({ en }) => {
 
               <div className="social-medias">
                 {data.social.map((item, key) => (
-                  <a
-                    href={item.link}
-                    target="_blank"
-                    key={`fsocial-item-${key}`}
-                  >
+                  <a href={""} key={`fsocial-item-${key}`}>
                     {item.title}
                   </a>
                 ))}

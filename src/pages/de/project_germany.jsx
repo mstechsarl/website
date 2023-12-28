@@ -10,7 +10,11 @@ const project_germany = () => {
     <Layouts>
       <ImageView />
 
-      <PageBanner pageTitle={"Projekte im Deutschland"} pageDesc={""} />
+      <PageBanner
+        pageTitle={"Projekte im Deutschland"}
+        pageDesc={""}
+        where={"g"}
+      />
 
       {/* Core Values Start */}
       <section className="gap core-values">
@@ -87,7 +91,7 @@ const project_germany = () => {
       </section>
       {/* Core Values End */}
 
-      <CallToActionSection  />
+      <CallToActionSection />
     </Layouts>
   );
 };

@@ -1,15 +1,20 @@
-import Head from 'next/head';
+import Head from "next/head";
 import Link from "next/link";
-import appData from "@data/app.json";
+import appData from "@data/app";
+import appDataDe from "@data/appDe";
 
-const PageBanner = ({ pageTitle, pageDesc }) => {
+const PageBanner = ({ pageTitle, pageDesc, where, en }) => {
+  const data = en ? appData : appDataDe;
   const styles = {
-    "parallax": {
-      "backgroundImage": "url(/images/pattren-3.png)"
-    }
-  }
-  const headTitle = `${appData.settings.siteName} - ${pageTitle}`;
-
+    parallax: {
+      backgroundImage: "url(/images/pattren-3.png)",
+    },
+  };
+  const headTitle = `${data.settings.siteName} - ${pageTitle}`;
+  const whereList = data.header.menu[3].children.filter(
+    (link) => link.where !== where
+  );
+  console.log(whereList);
   return (
     <>
       <Head>
@@ -29,17 +34,27 @@ const PageBanner = ({ pageTitle, pageDesc }) => {
         <div className="breadcrums">
           <div className="container">
             <div className="row">
-              <ul>
-                <li>
-                  <Link href="/">
-                    <i className="fa-solid fa-house"></i>
-                    <p>Home</p>
-                  </Link>
-                </li>
-                <li className="current">
-                  <p>{pageTitle}</p>
-                </li>
-              </ul>
+              {where ? (
+                <ul>
+                  {whereList.map((link) => (
+                    <li style={{ textDecoration: "underline" }}>
+                      <Link href={link.link}>{link.label}</Link>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <ul>
+                  <li>
+                    <Link href="/">
+                      <i className="fa-solid fa-house"></i>
+                      <p>Home</p>
+                    </Link>
+                  </li>
+                  <li className="current">
+                    <p>{pageTitle}</p>
+                  </li>
+                </ul>
+              )}
             </div>
           </div>
         </div>

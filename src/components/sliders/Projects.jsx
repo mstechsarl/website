@@ -29,10 +29,15 @@ const ProjectsSlider = ({ projects, en }) => {
                 </figure>
                 <div className="project-data">
                   <h3>
-                    <Link href={`/projects/${item.id}`}>{item.title}</Link>
+                    <Link href={`/${en ? "en" : "de"}/projects/${item.id}`}>
+                      {item.title}
+                    </Link>
                   </h3>
                   <p>{item.short}</p>
-                  <Link className="project-icon" href={`/projects/${item.id}`}>
+                  <Link
+                    className="project-icon"
+                    href={`/${en ? "en" : "de"}/projects/${item.id}`}
+                  >
                     <i className="fa-solid fa-angles-right"></i>
                   </Link>
                 </div>

@@ -21,7 +21,7 @@ const CallToActionSection = ({ en }) => {
           <div className="col-lg-5">
             <div className="cta-data">
               <figure>
-                <img src={data.image.url} alt={data.image.alt} />
+                <img src="" alt="" />
               </figure>
             </div>
           </div>

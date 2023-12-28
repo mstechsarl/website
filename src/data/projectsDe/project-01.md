@@ -1,6 +1,6 @@
 ---
 #preview
-title: Project Chalet Fattal
+title: uuuuu
 image: /img/chalet fattal.png
 short: "Design and Execution of Electrical
 Ice melting system.(210m2)"

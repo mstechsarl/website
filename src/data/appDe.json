@@ -58,19 +58,22 @@
         "link": "",
         "children": [
           {
-            "label": "Projekte im Libanon",
-            "link": "/de/projects",
-            "children": 0
-          },
-          {
             "label": "Projekte im Deutschland",
             "link": "/de/project_germany",
-            "children": 0
+            "children": 0,
+            "where": "g"
+          },
+          {
+            "label": "Projekte im Libanon",
+            "link": "/de/projects",
+            "children": 0,
+            "where": "l"
           },
           {
             "label": "Manager Erfahrung",
             "link": "/de/manager_experience",
-            "children": 0
+            "children": 0,
+            "where": "m"
           }
         ]
       },

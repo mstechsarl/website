@@ -11,6 +11,7 @@ const ProductDetail = () => {
       <ImageView />
 
       <PageBanner
+        en
         pageTitle={"Product Detail"}
         pageDesc={"our values and vaulted us to the top of our industry."}
       />

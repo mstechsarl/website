@@ -7,6 +7,7 @@ const ProductList = () => {
   return (
     <Layouts contactButton cartButton en>
       <PageBanner
+        en
         pageTitle={"Product List"}
         pageDesc={"our values and vaulted us to the top of our industry."}
       />

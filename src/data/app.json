@@ -58,19 +58,23 @@
         "link": "",
         "children": [
           {
-            "label": "Projects in Lebanon",
-            "link": "/en/projects",
-            "children": 0
-          },
-          {
             "label": "Projects in Germany",
             "link": "/en/project_germany",
-            "children": 0
+            "children": 0,
+            "where": "g"
           },
+          {
+            "label": "Projects in Lebanon",
+            "link": "/en/projects",
+            "children": 0,
+            "where": "l"
+          },
+
           {
             "label": "Manager Experience",
             "link": "/en/manager_experience",
-            "children": 0
+            "children": 0,
+            "where": "m"
           }
         ]
       },

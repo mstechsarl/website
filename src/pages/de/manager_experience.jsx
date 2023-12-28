@@ -8,7 +8,7 @@ import PageBanner from "@components/PageBanner";
 const Portfolio = (props) => {
   return (
     <Layouts>
-      <PageBanner pageTitle={"Manager Erfahrung"} pageDesc={""} />
+      <PageBanner pageTitle={"Manager Erfahrung"} pageDesc={""}  where={"m"}/>
 
       {/* Our Project Two Start */}
       <section className="gap project-style-one addition">
@@ -22,12 +22,14 @@ const Portfolio = (props) => {
                   </figure>
                   <div className="project-data">
                     <h3>
-                      <Link href={`/projects2/${item.id}`}>{item.title}</Link>
+                      <Link href={`/de/projects2/${item.id}`}>
+                        {item.title}
+                      </Link>
                     </h3>
                     <p>{item.short}</p>
                     <Link
                       className="project-icon"
-                      href={`/projects2/${item.id}`}
+                      href={`/de/projects2/${item.id}`}
                     >
                       <i className="fa-solid fa-angles-right" />
                     </Link>

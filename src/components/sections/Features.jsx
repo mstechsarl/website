@@ -8,7 +8,7 @@ import "react-modal-video/css/modal-video.css";
 const FeaturesSection = ({ en }) => {
   const data = en ? Data : DataDe;
   const [isOpen, setOpen] = useState(false);
-
+  const allEventKeys = data.items.map((item, key) => `features-acc-${key}`);
   return (
     <section className="core-features gap">
       <div className="container">
@@ -28,7 +28,7 @@ const FeaturesSection = ({ en }) => {
                 </div>
               </div>
 
-              <Accordion defaultActiveKey="features-acc-0">
+              <Accordion defaultActiveKey={allEventKeys}>
                 {data.items.map((item, key) => (
                   <Accordion.Item
                     key={`features-item-${key}`}

@@ -122,8 +122,9 @@ export function getAllProjectsIds() {
   });
 }
 
-export async function getProjectData(id) {
-  const fullPath = path.join(projectsDirectory, `${id}.md`);
+export async function getProjectData(id, en) {
+  const directory = en ? projectsDirectory : projectsDirectoryDe;
+  const fullPath = path.join(directory, `${id}.md`);
   const fileContents = fs.readFileSync(fullPath, "utf8");
 
   // Use gray-matter to parse the post metadata section

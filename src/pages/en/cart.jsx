@@ -6,8 +6,12 @@ import PageBanner from "@components/PageBanner";
 const Cart = () => {
   return (
     <Layouts contactButton cartButton>
-      <PageBanner pageTitle={"Cart"} pageDesc={"our values and vaulted us to the top of our industry."} />
-      
+      <PageBanner
+        en
+        pageTitle={"Cart"}
+        pageDesc={"our values and vaulted us to the top of our industry."}
+      />
+
       {/* Cart Start */}
       <section className="gap cart">
         <div className="container">
@@ -40,14 +44,23 @@ const Cart = () => {
                           <img src="/images/cross.svg" alt="Cross Svg" />
                         </a>
                         <img src="/img/product1.jpeg" alt="Product One" />
-                        <h2><Link href="/product-detail">Fosroc Galvafroid – 400ml</Link></h2>
+                        <h2>
+                          <Link href="/product-detail">
+                            Fosroc Galvafroid – 400ml
+                          </Link>
+                        </h2>
                       </div>
                       <div className="c-price">
                         <span className="orgnl">$ 400.00</span>
                         <del className="sale">$ 500.00</del>
                       </div>
                       <div className="c-quality">
-                        <input type="number" name="number" defaultValue="1" min="1" />
+                        <input
+                          type="number"
+                          name="number"
+                          defaultValue="1"
+                          min="1"
+                        />
                       </div>
                       <div className="c-total">
                         <span>$ 400.00</span>
@@ -61,14 +74,23 @@ const Cart = () => {
                           <img src="/images/cross.svg" alt="Cross Svg" />
                         </a>
                         <img src="/img/product2.jpeg" alt="Product One" />
-                        <h2><Link href="/product-detail">Fosroc Galvafroid – 400ml</Link></h2>
+                        <h2>
+                          <Link href="/product-detail">
+                            Fosroc Galvafroid – 400ml
+                          </Link>
+                        </h2>
                       </div>
                       <div className="c-price">
                         <span className="orgnl">$ 400.00</span>
                         <del className="sale">$ 500.00</del>
                       </div>
                       <div className="c-quality">
-                        <input type="number" name="number" defaultValue="1" min="1" />
+                        <input
+                          type="number"
+                          name="number"
+                          defaultValue="1"
+                          min="1"
+                        />
                       </div>
                       <div className="c-total">
                         <span>$ 400.00</span>
@@ -82,14 +104,23 @@ const Cart = () => {
                           <img src="/images/cross.svg" alt="Cross Svg" />
                         </a>
                         <img src="/img/product4.jpeg" alt="Product One" />
-                        <h2><Link href="/product-detail">Fosroc Galvafroid – 400ml</Link></h2>
+                        <h2>
+                          <Link href="/product-detail">
+                            Fosroc Galvafroid – 400ml
+                          </Link>
+                        </h2>
                       </div>
                       <div className="c-price">
                         <span className="orgnl">$ 400.00</span>
                         <del className="sale">$ 500.00</del>
                       </div>
                       <div className="c-quality">
-                        <input type="number" name="number" defaultValue="1" min="1" />
+                        <input
+                          type="number"
+                          name="number"
+                          defaultValue="1"
+                          min="1"
+                        />
                       </div>
                       <div className="c-total">
                         <span>$ 400.00</span>
@@ -103,14 +134,23 @@ const Cart = () => {
                           <img src="/images/cross.svg" alt="Cross Svg" />
                         </a>
                         <img src="/img/product3.jpeg" alt="Product One" />
-                        <h2><Link href="/product-detail">Fosroc Galvafroid – 400ml</Link></h2>
+                        <h2>
+                          <Link href="/product-detail">
+                            Fosroc Galvafroid – 400ml
+                          </Link>
+                        </h2>
                       </div>
                       <div className="c-price">
                         <span className="orgnl">$ 400.00</span>
                         <del className="sale">$ 500.00</del>
                       </div>
                       <div className="c-quality">
-                        <input type="number" name="number" defaultValue="1" min="1" />
+                        <input
+                          type="number"
+                          name="number"
+                          defaultValue="1"
+                          min="1"
+                        />
                       </div>
                       <div className="c-total">
                         <span>$ 400.00</span>
@@ -120,11 +160,17 @@ const Cart = () => {
                 </ul>
               </div>
               <div className="update-cart d-flex-all justify-content-between">
-                <form onSubmit={(e) => {e.preventDefault();}}>
+                <form
+                  onSubmit={(e) => {
+                    e.preventDefault();
+                  }}
+                >
                   <input type="text" name="coupon" placeholder="Coupon Code" />
                   <button type="submit">Apply</button>
                 </form>
-                <Link href="/cart" className="theme-btn">Update Cart <i className="fa-solid fa-angles-right" /></Link>
+                <Link href="/cart" className="theme-btn">
+                  Update Cart <i className="fa-solid fa-angles-right" />
+                </Link>
               </div>
             </div>
           </div>
@@ -132,7 +178,10 @@ const Cart = () => {
             <div className="col-lg-6"></div>
             <div className="col-lg-6">
               <div className="cart-total-box">
-                <div className="parallax" style={{backgroundImage: "url(/images/pattren-4.png)"}} />
+                <div
+                  className="parallax"
+                  style={{ backgroundImage: "url(/images/pattren-4.png)" }}
+                />
                 <div className="final">
                   <h4>Cart Total</h4>
                   <ul>
@@ -154,14 +203,15 @@ const Cart = () => {
                     </li>
                   </ul>
                 </div>
-                <Link href="/checkout" className="theme-btn">Checkout</Link>
+                <Link href="/checkout" className="theme-btn">
+                  Checkout
+                </Link>
               </div>
             </div>
           </div>
         </div>
       </section>
       {/* Cart End */}
-
     </Layouts>
   );
 };

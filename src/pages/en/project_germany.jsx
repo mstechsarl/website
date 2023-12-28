@@ -10,7 +10,12 @@ const project_germany = () => {
     <Layouts en>
       <ImageView />
 
-      <PageBanner pageTitle={"Project In germany"} pageDesc={""} />
+      <PageBanner
+        pageTitle={"Project In germany"}
+        pageDesc={""}
+        en
+        where={"g"}
+      />
 
       {/* Core Values Start */}
       <section className="gap core-values">
