@@ -172,7 +172,7 @@ const DefaultFooter = ({ en }) => {
                         />{" "}
                       </g>{" "}
                     </svg>
-                    <p>{data.footer2.info.address}</p>
+                    <p>{data.footer.info2.address}</p>
                   </li>
                   <li>
                     <svg
@@ -206,7 +206,7 @@ const DefaultFooter = ({ en }) => {
                         />{" "}
                       </g>{" "}
                     </svg>
-                    <p>{data.footer2.info.tel}</p>
+                    <p>{data.footer.info2.tel}</p>
                   </li>
                   <li>
                     <svg
@@ -244,7 +244,7 @@ const DefaultFooter = ({ en }) => {
                         />{" "}
                       </g>{" "}
                     </svg>
-                    <p>{data.footer2.info.email}</p>
+                    <p>{data.footer.info2.email}</p>
                   </li>
                 </ul>
               </div>
