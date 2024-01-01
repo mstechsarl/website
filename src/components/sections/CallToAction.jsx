@@ -18,13 +18,6 @@ const CallToActionSection = ({ en }) => {
               </Link>
             </div>
           </div>
-          <div className="col-lg-5">
-            <div className="cta-data">
-              <figure>
-                <img src="" alt="" />
-              </figure>
-            </div>
-          </div>
         </div>
       </div>
     </section>
