@@ -244,7 +244,7 @@ const Services = (props) => {
       </section>
       {/* Construction Services End */}
 
-      <CountersSection />
+      <CountersSection en />
 
       {/* Service Style Two Start 
       <section className="gap service-style-two">
