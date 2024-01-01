@@ -2525,11 +2525,15 @@ span.counter {
     display: flex;
     align-items: center;
 }
-.desktop-nav .nav-bar .extras .theme-btn {
+.extras .theme-btn {
     padding: 16px 55px 16px 30px;
     margin-left: 140px;
 }
-.desktop-nav .nav-bar .extras .theme-btn.simple {
+.desktop-nav .nav-bar{
+    margin-right: 300px;
+    padding: 16px 55px 16px 30px;
+}
+.extras .theme-btn.simple {
     padding: 16px 30px 16px 30px;
 }
 .desktop-nav .nav-bar .extras .theme-btn:after {
