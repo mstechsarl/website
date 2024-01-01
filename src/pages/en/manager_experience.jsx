@@ -41,7 +41,7 @@ const Portfolio = (props) => {
           </div>
         </div>
       </section>
-      <CallToActionSection />
+      <CallToActionSection en />
 
       {/* Our Project Two End */}
     </Layouts>
