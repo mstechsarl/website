@@ -132,7 +132,7 @@ const DefaultFooter = ({ en }) => {
                 </ul>
               </div>
             </div>
-<div className="col-lg-4 col-md-6 col-sm-12">
+            <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="footer-col">
                 <h3>Contact In Lebanon</h3>
                 <ul>
