@@ -1,6 +1,6 @@
 import Layouts from "@layouts/Layouts";
 import Link from "next/link";
-
+import CallToActionSection from "@components/sections/CallToAction";
 import { getSortedProjectsData } from "@library/projects2";
 
 
@@ -41,6 +41,7 @@ const Portfolio = (props) => {
           </div>
         </div>
       </section>
+      <CallToActionSection />
 
       {/* Our Project Two End */}
     </Layouts>
