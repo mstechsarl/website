@@ -67,7 +67,7 @@ const About = () => {
       </section>
       {/* About-First End */}
 
-      <CountersSection />
+      <CountersSection en />
 
       {/*About Key Benefits Start */}
       <section className="gap about-key-benefits ">
