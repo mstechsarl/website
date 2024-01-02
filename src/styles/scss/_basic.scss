@@ -1132,6 +1132,10 @@ button.scrollTopStick:hover i {
     padding: 40px;
     width: 87%;
     position: relative;
+    background-color: white;
+}
+.counter-bg{
+    background-color: $light-bg;
 }
 .counter-style-one .counter-data:hover {
     box-shadow: 20px 20px 13px 0px rgb(0 0 0 / 5%);
