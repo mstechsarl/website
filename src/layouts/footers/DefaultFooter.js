@@ -17,7 +17,7 @@ const DefaultFooter = ({ en }) => {
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="footer-col">
-                <h3>"Contact in Germany"</h3>
+                <h3>Contact in Germany</h3>
                 <ul>
                   <li>
                     <svg
@@ -134,7 +134,7 @@ const DefaultFooter = ({ en }) => {
             </div>
              <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="footer-col">
-                <h3>"Contact in Lebanon"</h3>
+                <h3>Contact in Lebanon</h3>
                 <ul>
                   <li>
                     <svg
