@@ -20,9 +20,6 @@ const project_germany = () => {
       {/* Core Values Start */}
       <section className="gap core-values">
         <div className="heading">
-          <figure>
-            <img src="/images/heading-icon.png" alt="Heading Icon" />
-          </figure>
           <h2>Project in Germany</h2>
         </div>
         <div className="container">
