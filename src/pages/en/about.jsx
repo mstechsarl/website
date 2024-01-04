@@ -49,7 +49,7 @@ const About = () => {
                 <figure>
                   <img
                     className="w-100"
-                    src="/img/plumbing.jpg"
+                    src="/img/home21.jpg"
                     alt="About Image One"
                   />
                 </figure>
