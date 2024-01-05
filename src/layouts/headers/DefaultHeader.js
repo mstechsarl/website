@@ -53,12 +53,16 @@ const DefaultHeader = ({ contactButton, cartButton, en }) => {
               <div className="row">
                 <div className="col-lg-12">
                   <div className="d-flex-all justify-content-between">
-                    <div className="header-logo">
-                      <Link href={en ? "/en" : "/de"}>
-                        <figure>
+                    <div className="header-logo" style={{ height: "5rem" }}>
+                      <Link
+                        style={{ height: "100%" }}
+                        href={en ? "/en" : "/de"}
+                      >
+                        <figure style={{ height: "100%" }}>
                           <img
                             src={data.header.logo.image}
                             alt={data.header.logo.alt}
+                            style={{ height: "100%" }}
                           />
                         </figure>
                       </Link>
@@ -213,7 +217,6 @@ const DefaultHeader = ({ contactButton, cartButton, en }) => {
                             </div>
                           </>
                         )}
-                       
 
                         {contactButton == 1 && (
                           <Link href="/contact" className="theme-btn simple">
@@ -229,9 +232,13 @@ const DefaultHeader = ({ contactButton, cartButton, en }) => {
           </div>
 
           <div className="mobile-nav mobile-menu" id="mobile-nav">
-            <div className="res-log">
-              <Link href="/">
-                <img src={data.header.logo.image} alt={data.header.logo.alt} />
+            <div className="res-log" style={{ height: "5rem" }}>
+              <Link href="/" style={{ height: "100%" }}>
+                <img
+                  style={{ height: "100%" }}
+                  src={data.header.logo.image}
+                  alt={data.header.logo.alt}
+                />
               </Link>
             </div>
 

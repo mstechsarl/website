@@ -2,7 +2,7 @@
   "settings": {
     "siteName": "MStech",
     "preloader": {
-      "image": "/img/logo.svg",
+      "image": "/img/logo_ill.svg",
       "alt": "logo"
     },
     "formspreeURL": "https://formspree.io/f/your_api_key",
@@ -112,10 +112,10 @@
       "email": "info@msteck-ing.de"
     },
     "info2": {
-            "address": "Lebanon,Beirut",
-            "tel": "(+961) 3 853545",
-            "email": "mstechsarl@gmail.com"
-   },
+      "address": "Lebanon,Beirut",
+      "tel": "(+961) 3 853545",
+      "email": "mstechsarl@gmail.com"
+    },
     "copy": "MSTECH For Engineering <i class='fa-solid fa-heart'></i> © 2023All rights reserved"
   },
   "social": [
@@ -126,7 +126,7 @@
     {
       "link": "https://twitter.com",
       "title": "Twitter"
-    }, 
+    },
     {
       "link": "https://linkedin.com",
       "title": "Linkedin"
