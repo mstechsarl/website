@@ -30,22 +30,13 @@ const About = () => {
           </div>
         </div>
         <div className="container">
-          <div className="row">
-            <div className="col-lg-5">
-              <div id="company" className="who-we-are ">
-                <div>
-                  <h3>{aboutPageData.whoTitle}</h3>
-                  <p>{aboutPageData.whoDes}</p>
-                </div>
-                <div id="founder" className="Founder">
-                  <h3>{aboutPageData.founderTitle1}</h3>
-                  <h3>{aboutPageData.founderTitle2}</h3>
-                  <p>{aboutPageData.founderDes}</p>
-                </div>
+          <div id="company" className="who-we-are ">
+            <div className="row" style={{ marginBottom: "2rem" }}>
+              <div className="col-lg-5">
+                <h3>{aboutPageData.whoTitle}</h3>
+                <p>{aboutPageData.whoDes}</p>
               </div>
-            </div>
-            <div className="col-lg-5 offset-lg-1">
-              <div className="who-we-are">
+              <div className="col-lg-5">
                 <figure>
                   <img
                     className="w-100"
@@ -53,12 +44,21 @@ const About = () => {
                     alt="About Image One"
                   />
                 </figure>
+              </div>
+            </div>
+
+            <div className="row">
+              <div className="col-lg-5">
+                <div id="founder" className="Founder">
+                  <h3>{aboutPageData.founderTitle1}</h3>
+                  <h3>{aboutPageData.founderTitle2}</h3>
+                  <p>{aboutPageData.founderDes}</p>
+                </div>
+              </div>
+
+              <div className="col-lg-5">
                 <figure>
-                  <img
-                    className="w-101"
-                    src="/img/pic1.jpg"
-                    alt="About Image Two"
-                  />
+                  <img src="/img/pic1.jpg" alt="About Image Two" />
                 </figure>
               </div>
             </div>
