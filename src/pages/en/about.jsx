@@ -49,7 +49,7 @@ const About = () => {
                 <figure>
                   <img
                     className="w-100"
-                    src="/img/plumbing.jpg"
+                    src="/img/home21.jpg"
                     alt="About Image One"
                   />
                 </figure>
@@ -67,7 +67,7 @@ const About = () => {
       </section>
       {/* About-First End */}
 
-      <CountersSection />
+      <CountersSection en />
 
       {/*About Key Benefits Start */}
       <section className="gap about-key-benefits ">

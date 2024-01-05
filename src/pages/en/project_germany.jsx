@@ -11,7 +11,7 @@ const project_germany = () => {
       <ImageView />
 
       <PageBanner
-        pageTitle={"Project In germany"}
+        pageTitle={"Project in Germany"}
         pageDesc={""}
         en
         where={"g"}
@@ -20,10 +20,7 @@ const project_germany = () => {
       {/* Core Values Start */}
       <section className="gap core-values">
         <div className="heading">
-          <figure>
-            <img src="/images/heading-icon.png" alt="Heading Icon" />
-          </figure>
-          <h2>Project In germany</h2>
+          <h2>Project in Germany</h2>
         </div>
         <div className="container">
           <div className="row">

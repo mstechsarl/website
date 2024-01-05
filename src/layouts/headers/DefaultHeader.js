@@ -213,31 +213,7 @@ const DefaultHeader = ({ contactButton, cartButton, en }) => {
                             </div>
                           </>
                         )}
-                        {contactButton !== 1 && (
-                          <div>
-                            <a
-                              href="https://wa.me/+491634463611"
-                              className="theme-btn"
-                            >
-                              Germany
-                              <i>
-                                <svg
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  xmlnsXlink="http://www.w3.org/1999/xlink"
-                                  width="40"
-                                  height="62"
-                                  viewBox="0 0 40 62"
-                                >
-                                  <defs>
-                                    <clipPath id="saddasdasdasdasda">
-                                      <rect width="40" height="62" />
-                                    </clipPath>
-                                  </defs>
-                                </svg>
-                              </i>
-                            </a>
-                          </div>
-                        )}
+                       
 
                         {contactButton == 1 && (
                           <Link href="/contact" className="theme-btn simple">

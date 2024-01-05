@@ -198,7 +198,7 @@ const Contact = () => {
                     </svg>
                     <div>
                       <h3>Address:</h3>
-                      <p>Lebanon - Beirut</p>
+                      <p>Lebanon,Beirut</p>
                     </div>
                   </li>
                   <li>
@@ -326,7 +326,7 @@ const Contact = () => {
                     </svg>
                     <div>
                       <h3>Address:</h3>
-                      <p>45964 Gladbeck Mittelstraße 32 Deutschland</p>
+                      <p>Mittelstraße 32,45964 Gladbeck,Deutschland</p>
                     </div>
                   </li>
                   <li>

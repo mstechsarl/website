@@ -1138,10 +1138,14 @@ button.scrollTopStick:hover i {
 
 /* 4. Counter Style One Start*/
 .counter-style-one .counter-data {
-  border: 1px solid #c1c1c1;
-  padding: 40px;
-  width: 87%;
-  position: relative;
+    border: 1px solid #c1c1c1;
+    padding: 40px;
+    width: 87%;
+    position: relative;
+    background-color: white;
+}
+.counter-bg{
+    background-color: $light-bg;
 }
 .counter-style-one .counter-data:hover {
   box-shadow: 20px 20px 13px 0px rgb(0 0 0 / 5%);
@@ -3756,7 +3760,8 @@ span.counter {
 
 /* 23. CTA Section Start */
 .cta-section {
-  overflow: hidden;
+    overflow: hidden;
+    margin-bottom: 100px;
 }
 .cta-section .cta-data h2 {
   font-size: $text-lg;
@@ -7118,3 +7123,4 @@ img.mfp-img {
 .w-101 {
   margin-top: 200px;
 }
+

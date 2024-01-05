@@ -5,7 +5,7 @@ import CountUp from "react-countup";
 const CountersSection = ({ en }) => {
   const data = en ? Data : DataDe;
   return (
-    <section className="gap no-top counter-style-one">
+    <section className="gap counter-style-one counter-bg">
       <div className="container">
         <div className="row">
           {data.items.map((item, key) => (

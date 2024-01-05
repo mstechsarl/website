@@ -2,7 +2,7 @@ import Layouts from "@layouts/Layouts";
 import Link from "next/link";
 
 import { getSortedProjectsData } from "@library/projects";
-
+import CallToActionSection from "@components/sections/CallToAction";
 import PageBanner from "@components/PageBanner";
 
 const Portfolio = (props) => {
@@ -67,6 +67,7 @@ const Portfolio = (props) => {
         */}
         {/* Our Project One End */}
       </section>
+      <CallToActionSection />
     </Layouts>
   );
 };

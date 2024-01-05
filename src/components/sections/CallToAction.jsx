@@ -5,7 +5,7 @@ import Link from "next/link";
 const CallToActionSection = ({ en }) => {
   const data = en ? Data : DataDe;
   return (
-    <section className="cta-section">
+    <section className="cta-section gap">
       <div className="container">
         <div className="row align-items-center">
           <div className="col-lg-7">
@@ -18,6 +18,7 @@ const CallToActionSection = ({ en }) => {
               </Link>
             </div>
           </div>
+
           <div className="col-lg-5">
             <div className="cta-data">
               {/* <figure>

@@ -13,7 +13,7 @@
   },
   "header": {
     "logo": {
-      "image": "/img/logo_ill.png",
+      "image": "/img/logo.png",
       "alt": "logo"
     },
     "menu": [
@@ -79,7 +79,7 @@
         ]
       },
       {
-        "label": "Contact",
+        "label": "Contact Us",
         "link": "/en/contact",
         "children": 0
       },
@@ -101,19 +101,23 @@
       }
     ]
   },
-  "footer": {
-    "logo": {
-      "image": "/img/logo_ill.png",
-      "alt": "logo"
+     "footer": {
+        "logo": {
+            "image": "/img/logo_ill.png",
+            "alt": "logo"
+        },
+        "info": {
+            "address": "Mittelstraße 32,45964 Gladbeck,Germany",
+            "tel": "(+49) 163 4463611",
+            "email": "info@msteck-ing.de"
+        },
+        "info2": {
+            "address": "Lebanon,Beirut",
+            "tel": "(+961) 3 853545",
+            "email": "mstechsarl@gmail.com"
+        },
+        "copy": "MSTECH For Engineering <i class='fa-solid fa-heart'></i> © 2023All rights reserved"
     },
-    "info": {
-      "address": "45964 Gladbeck Mittelstraße 32 Deutschland",
-      "tel": "(+49) 163 4463611",
-      "tel": "(+961) 3 853545",
-      "email": "info@msteck-ing.de"
-    },
-    "copy": "MSTECH For Engineering <i class='fa-solid fa-heart'></i> © 2023All rights reserved"
-  },
   "social": [
     {
       "link": "https://facebook.com",
