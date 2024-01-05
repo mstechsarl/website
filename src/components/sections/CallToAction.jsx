@@ -20,13 +20,14 @@ const CallToActionSection = ({ en }) => {
           </div>
           <div className="col-lg-5">
             <div className="cta-data">
-              <figure>
+              {/* <figure>
                 <img src="" alt="" />
-              </figure>
+              </figure> */}
             </div>
           </div>
         </div>
       </div>
+      <br />
     </section>
   );
 };

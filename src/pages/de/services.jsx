@@ -96,7 +96,9 @@ const Services = (props) => {
             <div className="row align-items-center">
               <div className="col-lg-4">
                 <div className="services-nav">
-                  <h2>Mechanische Dienstleistungen</h2>
+                  <h2 style={{ fontSize: "35px" }}>
+                    Mechanische Dienstleistungen
+                  </h2>
                   <Nav variant="pills" className="nav nav-pills mb-3">
                     <Nav.Item>
                       <Nav.Link eventKey="tab-service-0">Sanitär</Nav.Link>
