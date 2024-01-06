@@ -46,14 +46,14 @@ const ProjectDetail = (props) => {
           <ul className="next-prev-projects">
             {prev_id != 0 && prev_id != undefined && (
               <li className="prev">
-                <Link href={`/projects/${prev_id}`}>
+                <Link href={`/en/projects/${prev_id}`}>
                   <i className="fa-solid fa-arrow-left-long" />
                 </Link>
               </li>
             )}
             {next_id != 0 && next_id != undefined && (
               <li className="next">
-                <Link href={`/projects/${next_id}`}>
+                <Link href={`/en/projects/${next_id}`}>
                   <i className="fa-solid fa-arrow-right-long" />
                 </Link>
               </li>
