@@ -6,7 +6,7 @@
       "text": "Our Company has consistently embraced innovation to provide a superior level of excellence for our customers.",
       "button": {
         "label": "Contact Us",
-        "link": "/contact"
+        "link": "/en/contact"
       }
     },
     {
@@ -15,7 +15,7 @@
       "text": "Precision in planning defines the excellence of our mechanical contracting company, guaranteeing seamless and successful project execution. ",
       "button": {
         "label": "Contact Us",
-        "link": "/contact"
+        "link": "/en/contact"
       }
     },
     {
@@ -24,7 +24,7 @@
       "text": "Our consultancy services serve as the guiding force, enhancing the efficiency and success of our contracting projects through strategic insights and expert guidance.",
       "button": {
         "label": "Contact Us",
-        "link": "/contact"
+        "link": "/en/contact"
       }
     },
     {
@@ -33,7 +33,7 @@
       "text": "Orchestrating streamlined excellence, ensuring efficient operations, and providing strategic direction for success in contracting endeavors.",
       "button": {
         "label": "Contact Us",
-        "link": "/contact"
+        "link": "/en/contact"
       }
     },
     {
@@ -42,7 +42,7 @@
       "text": "Ensuring client satisfaction, optimal system performance, compliance with regulations, and overall safety in our mechanical contracting company.",
       "button": {
         "label": "Contact Us",
-        "link": "/contact"
+        "link": "/en/contact"
       }
     }
   ]
