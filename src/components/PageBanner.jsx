@@ -35,15 +35,7 @@ const PageBanner = ({ pageTitle, pageDesc, where, en }) => {
           <div className="container">
             <div className="row">
               {where ? (
-                <ul>
-                  {whereList.map((link) => (
-                    <li style={{ textDecoration: "underline" }}>
-                      <Link href={link.link}>{link.label}</Link>
-                    </li>
-                  ))}
-                </ul>
-              ) : (
-                <ul>
+               <ul>
                   <li>
                     <Link href="/">
                       <i className="fa-solid fa-house"></i>
@@ -53,8 +45,13 @@ const PageBanner = ({ pageTitle, pageDesc, where, en }) => {
                   <li className="current">
                     <p>{pageTitle}</p>
                   </li>
+                  {whereList.map((link) => (
+                    <li style={{ textDecoration: "underline" }}>
+                      <Link href={link.link}>{link.label}</Link>
+                    </li>
+                  ))}
                 </ul>
-              )}
+            }
             </div>
           </div>
         </div>
