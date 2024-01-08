@@ -8,7 +8,7 @@ import PageBanner from "@components/PageBanner";
 
 const Portfolio = (props) => {
   return (
-    <Layouts en>
+    <Layouts de>
       <PageBanner pageTitle={"Projects in Lebanon"} pageDesc={""} where="l" en />
 
       {/* Our Project Two Start */}
