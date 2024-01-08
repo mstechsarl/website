@@ -9,7 +9,7 @@ import PageBanner from "@components/PageBanner";
 const Portfolio = (props) => {
   return (
     <Layouts en>
-      <PageBanner pageTitle={"Projects in Lebanon"} pageDesc={""} where="m" en />
+      <PageBanner pageTitle={"Projects in Lebanon"} pageDesc={""} where="l" en />
 
       {/* Our Project Two Start */}
       <section className="gap project-style-one addition">
