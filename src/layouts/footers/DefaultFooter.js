@@ -57,6 +57,7 @@ const DefaultFooter = ({ en }) => {
                     </svg>
                     <p>{data.footer.info.address}</p>
                   </li>
+                  <li><p>{data.footer.info.address2}</p></li>
                   <li>
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
