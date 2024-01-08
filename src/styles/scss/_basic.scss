@@ -1225,6 +1225,7 @@ span.counter {
 }
 .project-style-one .project-post .project-data .project-icon {
   content: "\f101";
+   
   width: 60px;
   height: 100%;
   position: absolute;
@@ -1237,12 +1238,12 @@ span.counter {
   top: 0;
   right: -16px;
   color: $black;
-  background: #c1c1c1;
+  background: #FEA00C;
 }
-.project-style-one .project-post .project-data:hover .project-icon {
+.project-style-one .project-post .project-data .project-icon {
   right: 45px;
 }
-.project-style-one .project-post .project-data:hover .project-icon i {
+.project-style-one .project-post .project-data .project-icon i {
   transform: skew(21.5deg, 0deg);
 }
 .project-style-one .project-post .project-data p {
