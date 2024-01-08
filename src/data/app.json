@@ -107,7 +107,8 @@
       "alt": "logo"
     },
     "info": {
-      "address": "Mittelstraße 32,45964 Gladbeck,Germany",
+      "address": "Mittelstraße 32,",
+      "address2": "45964 Gladbeck,Germany",
       "tel": "(+49) 163 4463611",
       "email": "info@msteck-ing.de"
     },
