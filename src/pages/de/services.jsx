@@ -97,7 +97,7 @@ const Services = (props) => {
               <div className="col-lg-4">
                 <div className="services-nav">
                   <h2 style={{ fontSize: "35px" }}>
-                    Mechanische Dienstleistungen
+                    Unsere Leistungen
                   </h2>
                   <Nav variant="pills" className="nav nav-pills mb-3">
                     <Nav.Item>
