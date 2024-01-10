@@ -105,20 +105,20 @@ const Services = (props) => {
                     </Nav.Item>
                     <Nav.Item>
                       <Nav.Link eventKey="tab-service-1">
-                        Heizungssystem
+                        Heizung
                       </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                       <Nav.Link eventKey="tab-service-2">Klimaanlage</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="tab-service-3">Solaranlage</Nav.Link>
+                      <Nav.Link eventKey="tab-service-3">Sonnensystem</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                       <Nav.Link eventKey="tab-service-4">Planung</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="tab-service-5">Wartung</Nav.Link>
+                      <Nav.Link eventKey="tab-service-5">Wartung und Notdienst</Nav.Link>
                     </Nav.Item>
                   </Nav>
                 </div>
@@ -136,12 +136,9 @@ const Services = (props) => {
                         alt="Services Nav Image 1"
                       />
                       <figcaption>
-                        <h3>Sanitärinstallation</h3>
+                        <h3>Sanitär</h3>
                         <p>
-                          Wir entwerfen und führen Sanitärinstallationen aus,
-                          die Wasser zu verschiedenen Wasserhähnen, Armaturen
-                          leiten und Abwasser ohne Verstopfungen in
-                          Kanalisationen oder Klärgruben ableiten.
+                         Ein Sanitärsystem dient zwei Zwecken: der Wasserversorgung für den menschlichen Gebrauch und der Beseitigung menschlicher Abfälle.  Wir konzipieren und realisieren Rohrleitungen, die Wasser zu den verschiedenen Wasserhähnen, Armaturen und zum Wasser führen und Abwasser ohne Verstopfung in die Abwasserkanäle oder Klärgruben leiten.
                         </p>
                       </figcaption>
                     </figure>
@@ -157,12 +154,9 @@ const Services = (props) => {
                         alt="Services Nav Image 2"
                       />
                       <figcaption>
-                        <h3>Heizungssystem</h3>
+                        <h3>Heizung</h3>
                         <p>
-                          Wir entwerfen und realisieren aufeinander abgestimmte
-                          Heizungssysteme und bieten hohen Komfort bei geringen
-                          Energiekosten, sowohl in Neubauten als auch bei
-                          Renovierungsprojekten.
+                         Heizungssysteme sorgen für angenehme Wärme und bieten warmes Wasser für den Hausgebrauch, zum Duschen oder Baden.  Wir konzipieren und realisieren aufeinander abgestimmte Heizsysteme und bieten hohen Komfort bei geringen Energiekosten, ob im Neubau oder bei der Sanierung von Gebäuden. Egal, welche Art von Heizsystem Sie in Ihrem Haus haben möchten, Sie können Geld sparen und Ihren Komfort erhöhen, indem Sie Ihre Geräte ordnungsgemäß warten oder aufrüsten.
                         </p>
                       </figcaption>
                     </figure>
@@ -177,10 +171,7 @@ const Services = (props) => {
                       <figcaption>
                         <h3>Klimaanlage</h3>
                         <p>
-                          Wir entwerfen und realisieren Kühlsysteme in
-                          Kombination mit geeigneter Isolierung,
-                          energieeffizienten Fenstern und Türen,
-                          Tageslichtnutzung, Beschattung und Belüftung.
+                         Klimaanlagen werden eingesetzt, um die Wärme eines Prozesses oder einer Anlage abzuleiten.  Wir konzipieren und realisieren Klimasysteme mit einer Kombination aus angemessener Isolierung, Energieeffizienzen Fenstern und Türen, Tageslicht, Beschattung und Belüftung, die in heißen Klimazonen das Zuhause mit einem Minimum an Energieverbrauch kühl halten.
                         </p>
                       </figcaption>
                     </figure>
@@ -193,12 +184,11 @@ const Services = (props) => {
                         alt="Services Nav Image 4"
                       />
                       <figcaption>
-                        <h3>Solarsystem</h3>
+                        <h3>Sonnensystem</h3>
                         <p>
-                          Wir entwerfen Solarheizsysteme, indem wir
-                          Sonnenenergie verwenden, um Wasser zu erhitzen und die
-                          solare Wärme direkt in den Innenraum oder in ein
-                          Speichersystem für spätere Verwendung zu übertragen.
+                          Solaranlagen Ihr Zuhause mit einer aktiven Solaranlage kann im Winter Ihre Brennstoff- und Stromkosten erheblich senken.  Wir entwickeln Solarheizung, indem wir Sonnenenergie zum Erhitzen von Wasser verwenden und die Sonnenwärme dann direkt in den Innenraum oder in ein Speichersystem zur späteren Verwendung übertragen.
+
+  
                         </p>
                       </figcaption>
                     </figure>
@@ -230,12 +220,11 @@ const Services = (props) => {
                         alt="Services Nav Image 5"
                       />
                       <figcaption>
-                        <h3>Wartung</h3>
+                        <h3>Wartung und Notdienst</h3>
                         <p>
-                          Unser Team ist bereit, die verschiedenen mechanischen
-                          Systeme in Ihrem Wohnhaus, Gebäude, Krankenhaus,
-                          Schule usw. zu überprüfen und zu reparieren. Die
-                          Lösung für Ihre Heizungs- und Sanitärprobleme.
+                         Funktionieren die Sanitär, Heizung und Klimaanlagen einwandfrei?  Unser Team ist bereit, die verschiedenen mechanischen Systeme in Ihrem Wohnsitz, Gebäude, Krankenhaus, in der Schule usw. zu überprüfen und zu reparieren.
+
+Die Lösung Ihrer Probleme bei Heizung und Sanitär.
                         </p>
                       </figcaption>
                     </figure>
