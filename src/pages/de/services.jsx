@@ -62,7 +62,7 @@ const Services = (props) => {
             <div className="col-lg-3 col-md-6 col-sm-12">
               <div className="plans">
                 <div className="y-box d-flex-all">3.</div>
-                <h3>Projektmanagement."</h3>
+                <h3>Projektmanagement</h3>
                 <p>
                   Die Orchestrierung von schlüssiger Exzellenz, die
                   Sicherstellung effizienter Abläufe und die Bereitstellung
