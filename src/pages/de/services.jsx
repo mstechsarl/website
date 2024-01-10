@@ -156,8 +156,10 @@ const Services = (props) => {
                       <figcaption>
                         <h3>Heizung</h3>
                         <p>
-                         Heizungssysteme sorgen für angenehme Wärme und bieten warmes Wasser für den Hausgebrauch, zum Duschen oder Baden.  Wir konzipieren und realisieren aufeinander abgestimmte Heizsysteme und bieten hohen Komfort bei geringen Energiekosten, ob im Neubau oder bei der Sanierung von Gebäuden. Egal, welche Art von Heizsystem Sie in Ihrem Haus haben möchten, Sie können Geld sparen und Ihren Komfort erhöhen, indem Sie Ihre Geräte ordnungsgemäß warten oder aufrüsten.
-                        </p>
+                          Wir entwerfen und realisieren aufeinander abgestimmte
+                          Heizungssysteme und bieten hohen Komfort bei geringen
+                          Energiekosten, sowohl in Neubauten als auch bei
+                          Renovierungsprojekten.                        </p>
                       </figcaption>
                     </figure>
                   </Tab.Pane>
