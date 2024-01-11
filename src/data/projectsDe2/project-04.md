@@ -1,39 +1,38 @@
 ---
-#preview
+# Vorschau
 title: SHERATON CORAL BEACH
 image: /img/managerexp4.png
-short: "Drainage And Water Supply System, Heating System(Boiler and Fancoil units) and HVAC System(Chiller)."
-location: "Lebanon"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Kessel und Fancoil-Einheiten) und HVAC-System (Kühler)."
+location: "Libanon"
 dates: "2002"
-
 
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: KOKACHE
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: SABECO
 
-        - label: Mechanical Consultant
+        - label: Mechanischer Berater
           value: LACECO
 
-        - label: Duration
-          value: 2 Years 
+        - label: Dauer
+          value: 2 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2002
       
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Boiler and Fancoil units).
-        - HVAC System(Chiller).
+        - Entwässerungs- und Wasserversorgungssystem.
+        - Heizungssystem (Kessel und Fancoil-Einheiten).
+        - HVAC-System (Kühler).
 
 slider: 
     items:
         - image: /img/managerexp4.png
-          alt: "image"
+          alt: "Bild"
 ---
