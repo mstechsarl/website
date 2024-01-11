@@ -1,37 +1,36 @@
 ---
-#preview
-title: AL HAYAT HOSPITAL
+# Vorschau
+title: AL HAYAT KRANKENHAUS
 image: /img/project-pic-6.png
-short: "Solar energy system.(39 Nos. solar collectors,
-2 Nos. Hot Water Storage
-Tanks Capacity=1500L each)"
+short: "Solarenergieanlage. (39 Stück Solarkollektoren, 2 Stück Warmwasserspeichertanks, Fassungsvermögen = 1500L jeder)"
 location: ""
 dates: "2014"
 
-
+# Vollständige Details
 details:
     items:
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L
 
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2014
         
 
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Solar energy system.(39 Nos. solar collectors,
-        - 2 Nos. Hot Water Storage Tanks Capacity=1500L each)
+        - Solarenergieanlage. (39 Stück Solarkollektoren, 2 Stück Warmwasserspeichertanks, Fassungsvermögen = 1500L jeder)
 
 
 slider: 
     items:
         - image: /img/project-pic-6.png
-          alt: "image"
+          alt: "Bild"
 
         - image: /img/project-pic-6(1).png
-          alt: "image"          
+          alt: "Bild"          
 
----
+---```
+
+This is the translated version of the project information into German.
