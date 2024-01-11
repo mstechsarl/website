@@ -1,40 +1,39 @@
 ---
-#preview
-title: DORA COMMERTIAL CENTER(BHV,GEANT CASINO)
+# Vorschau
+title: DORA COMMERTIAL CENTER (BHV, GEANT CASINO)
 image: /img/managerexp2.png
-short: "Drainage And Water Supply System,HVAC System (Chiller),Heating System(Boiler) and Gas System."
-location: "Lebanon"
+short: "Entwässerungs- und Wasserversorgungssystem, HVAC-System (Kühler), Heizungssystem (Kessel) und Gassystem."
+location: "Libanon"
 dates: "2005"
 
-
 details:
-    items:
-        - label: Main Contractor
-          value: MAN
+  items:
+    - label: Hauptauftragnehmer
+      value: MAN
 
-        - label: Mechanical Contractor
-          value: Equip  
+    - label: Mechanischer Auftragnehmer
+      value: Equip
 
-        - label: Mechanical Consultant
-          value: BARBANEL
+    - label: Mechanischer Berater
+      value: BARBANEL
 
-        - label: Duration
-          value: 2 Years 
-        
-        - label: Completion Date
-          value: 2005
-      
-#full details
+    - label: Dauer
+      value: 2 Jahre
+
+    - label: Fertigstellungsdatum
+      value: 2005
+
+# Vollständige Details
 checklist:
-    title: Scope Of Work
-    items:
-        - Drainage And Water Supply System.
-        - HVAC System (Chiller).
-        - Heating System(Boiler).
-        - Gas System.
+  title: Leistungsumfang
+  items:
+    - Entwässerungs- und Wasserversorgungssystem.
+    - HVAC-System (Kühler).
+    - Heizungssystem (Kessel).
+    - Gassystem.
 
-slider: 
-    items:
-        - image: /img/managerexp2.png
-          alt: "image"
+slider:
+  items:
+    - image: /img/managerexp2.png
+      alt: "Bild"
 ---
