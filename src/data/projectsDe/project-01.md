@@ -1,37 +1,33 @@
 ---
-#preview
-title: Project Chalet Fattal
+# Vorschau
+title: Projekt Chalet Fattal
 image: /img/chalet fattal.png
-short: "Design and Execution of Electrical
-Ice melting system.(210m2)"
-location: "Lebanon - Faqra"
+short: "Entwurf und Ausführung des elektrischen Eisschmelzsystems (210 m2)"
+location: "Libanon - Faqra"
 dates: "2020"
 
-
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Design and Execution of Electrical Ice melting system.(210m2)
-
+        - Entwurf und Ausführung des elektrischen Eisschmelzsystems (210 m2)
 
 details:
     items:
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L
 
-        - label: Duration
-          value: 3 months 
+        - label: Dauer
+          value: 3 Monate 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2020
       
 slider: 
     items:
         - image: /img/chalet fattal.png
-          alt: "image"
+          alt: "Bild"
 
         - image: /img/chalet fattal2.png
-          alt: "image"
-
+          alt: "Bild"
 ---
