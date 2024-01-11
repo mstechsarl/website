@@ -23,14 +23,14 @@ const Portfolio = (props) => {
                   </figure>
                   <div className="project-data">
                     <h3>
-                      <Link href={`/en/projects/${item.id}`}>
+                      <Link href={`/de/projects/${item.id}`}>
                         {item.title}
                       </Link>
                     </h3>
                     <p>{item.short}</p>
                     <Link
                       className="project-icon"
-                      href={`/en/projects/${item.id}`}
+                      href={`/de/projects/${item.id}`}
                     >
                       <i className="fa-solid fa-angles-right" />
                     </Link>
