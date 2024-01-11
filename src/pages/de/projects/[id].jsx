@@ -11,7 +11,7 @@ import {
   getRelatedProjects,
 } from "@library/projects";
 
-import RelatedProjectsSection from "@components/RelatedProjects";
+import RelatedProjectsSection from "@components/RelatedProjectsDe";
 import CallToActionSection from "@components/sections/CallToAction";
 
 const ProjectDetail = (props) => {
@@ -144,7 +144,7 @@ const ProjectDetail = (props) => {
 
       <RelatedProjectsSection projects={props.related} />
 
-      <CallToActionSection en />
+      <CallToActionSection de />
     </Layouts>
   );
 };
