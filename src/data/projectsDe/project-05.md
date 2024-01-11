@@ -1,48 +1,45 @@
 ---
-#preview
+# Vorschau
 title: ASHRAFIEH 292
 image: /img/project-pic-5(1).png
-short: "Drainage And Water Supply System,
-Heating System(Gas Boiler and Floor Heating),
-HVAC System(DX units) and
-Gas System."
-location: "Lebanon - Ashrafieh"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Gasboiler und Fußbodenheizung), HVAC-System (DX-Einheiten) und Gassystem."
+location: "Libanon - Ashrafieh"
 dates: "2016"
 
-
+# Vollständige Details
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: Natcon Engineering and Contracting
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L  
 
-        - label: Duration
-          value: 3 Years 
+        - label: Dauer
+          value: 3 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2016
         
 
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Gas Boiler and Floor Heating)
-        - HVAC System(DX units)
-        - Gas System
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Gasboiler und Fußbodenheizung)
+        - HVAC-System (DX-Einheiten)
+        - Gassystem
 
 
 slider: 
     items:
         - image: /img/project-pic-5(1).png
-          alt: "image"
+          alt: "Bild"
         
         - image: /img/project-pic-5(2).png
-          alt: "image"
+          alt: "Bild"
 
         - image: /img/project-pic-5(3).png
-          alt: "image"
+          alt: "Bild"
 ---
