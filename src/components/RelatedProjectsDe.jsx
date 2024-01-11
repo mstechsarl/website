@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const RelatedProjects = ({ projects, de }) => {
+const RelatedProjectsDe = ({ projects, de }) => {
   return (
     <>
       <section className="gap no-top project-style-one extra addition">
@@ -42,4 +42,4 @@ const RelatedProjects = ({ projects, de }) => {
     </>
   );
 };
-export default RelatedProjects;
+export default RelatedProjectsDe;
