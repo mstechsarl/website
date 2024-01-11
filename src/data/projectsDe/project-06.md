@@ -1,4 +1,3 @@
----
 # Vorschau
 title: AL HAYAT KRANKENHAUS
 image: /img/project-pic-6.png
@@ -30,7 +29,3 @@ slider:
 
         - image: /img/project-pic-6(1).png
           alt: "Bild"          
-
----```
-
-This is the translated version of the project information into German.
