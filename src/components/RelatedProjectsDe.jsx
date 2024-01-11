@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const RelatedProjectsDe = ({ projects, en }) => {
+const RelatedProjectsDe = ({ projects, de }) => {
   return (
     <>
       <section className="gap no-top project-style-one extra addition">
@@ -21,14 +21,14 @@ const RelatedProjectsDe = ({ projects, en }) => {
                   </figure>
                   <div className="project-data">
                     <h3>
-                      <Link href={`/${en ? "en" : "de"}/projectsDe/${item.id}`}>
+                      <Link href={`/de/projects/${item.id}`}>
                         {item.title}
                       </Link>
                     </h3>
                     <p>{item.short}</p>
                     <Link
                       className="project-icon"
-                      href={`/${en ? "en" : "de"}/projectsDe/${item.id}`}
+                      href={`/de/projects/${item.id}`}>
                     >
                       <i className="fa-solid fa-angles-right" />
                     </Link>
