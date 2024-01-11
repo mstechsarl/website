@@ -1,43 +1,44 @@
 ---
-#preview
+# Preview
 title: VILLA MNASSEH
 image: /img/project-pic-10.png
-short: "Heating System(Boiler, solar and Underfloor Heating)and HVAC System(DX units)."
+short: "Heizungssystem (Boiler,
+Solar und Fußbodenheizung) und
+HVAC-System (DX-Einheiten)."
 location: ""
 dates: "2011"
 
-
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: BEAINI Engineering
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L  
 
-        - label: Duration
-          value: 2 Years 
+        - label: Dauer
+          value: 2 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2011
         
 
 #full details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Heating System(Boiler, solar and Underfloor Heating)
-        - HVAC System(DX units)
+        - Heizungssystem (Boiler, Solar und Fußbodenheizung)
+        - HVAC-System (DX-Einheiten)
 
 
 slider: 
     items:
         - image: /img/project-pic-10.png
-          alt: "image"
+          alt: "Bild"
 
         - image: /img/project-pic-10(1).png
-          alt: "image"      
+          alt: "Bild"      
 
         - image: /img/project-pic-10(2).png
-          alt: "image"    
+          alt: "Bild"    
 ---
