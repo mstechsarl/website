@@ -8,7 +8,7 @@ import {
   getSortedProjectsData,
   getAllProjectsIds,
   getProjectData,
-  getRelatedProjects,
+  getRelatedProjectsDe,
 } from "@library/projects";
 
 import RelatedProjectsSection from "@components/RelatedProjectsDe";
