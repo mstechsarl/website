@@ -1,45 +1,42 @@
 ---
-#preview
+# Vorschau
 title: Faqra Horizon
 image: /img/project-pic-3.png
-short: "Drainage And Water Supply System,
-Heating System(Gas Boiler and Floor Heating),
-HVAC System(DX units) and
-Gas System."
-location: "Lebanon - LAU Jbeil"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Gasboiler und Fußbodenheizung), HVAC-System (DX-Einheiten) und Gassystem."
+location: "Libanon - LAU Jbeil"
 dates: "2018"
 
-
+# Vollständige Details
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: Natcon Engineering and Contracting
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L 
 
-        - label: Mechanical Consultant
+        - label: Mechanischer Berater
           value: Pierre Dammous
 
-        - label: Duration
-          value: 3 Years 
+        - label: Dauer
+          value: 3 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2016
         
 
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Gas Boiler and Floor Heating)
-        - HVAC System(DX units)
-        - Gas System
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Gasboiler und Fußbodenheizung)
+        - HVAC-System (DX-Einheiten)
+        - Gassystem
 
 
 slider: 
     items:
         - image: /img/project-pic-3.png
-          alt: "image"
+          alt: "Bild"
 ---
