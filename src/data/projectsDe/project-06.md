@@ -19,10 +19,10 @@ details:
 
 #full details
 checklist:
-    title: Leistungsumfang
+    title: Scope Of Work
     items:
-        - Solarenergieanlage. (39 Stück Solarkollektoren,
-        -2 Stück Warmwasserspeichertanks, Fassungsvermögen = 1500L jeder)
+        - Solar energy system.(39 Nos. solar collectors,
+        - 2 Nos. Hot Water Storage Tanks Capacity=1500L each)
 
 
 slider: 
