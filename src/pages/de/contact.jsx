@@ -97,7 +97,7 @@ const Contact = () => {
                       <div className="row g-0">
                         <textarea
                           name="message"
-                          placeholder="Question / Message?"
+                          placeholder="Frage / Nachricht?"
                           required="required"
                           onChange={handleChange}
                           onBlur={handleBlur}
@@ -110,7 +110,7 @@ const Contact = () => {
                           name="name"
                           className="form-control"
                           id="exampleInputText1"
-                          placeholder="Complete Name"
+                          placeholder="Vollständiger Name"
                           required="required"
                           onChange={handleChange}
                           onBlur={handleBlur}
@@ -122,7 +122,7 @@ const Contact = () => {
                           type="email"
                           className="form-control"
                           id="exampleInputEmail1"
-                          placeholder="Email Address"
+                          placeholder="E-Mail-Adresse"
                           name="email"
                           required="required"
                           onChange={handleChange}
@@ -135,7 +135,7 @@ const Contact = () => {
                           type="text"
                           className="form-control"
                           id="exampleInputPassword1"
-                          placeholder="Subject"
+                          placeholder="Betreff  "
                           name="subject"
                           onChange={handleChange}
                           onBlur={handleBlur}
@@ -143,7 +143,7 @@ const Contact = () => {
                         />
                       </div>
                       <button type="submit" className="theme-btn">
-                        Send Message <i className="fa-solid fa-angles-right" />
+                        Nachricht senden <i className="fa-solid fa-angles-right" />
                       </button>
 
                       <div className="form-status" id="contactFormStatus" />
@@ -197,7 +197,7 @@ const Contact = () => {
                       </g>{" "}
                     </svg>
                     <div>
-                      <h3>Address:</h3>
+                      <h3>Adresse:</h3>
                       <p>Lebanon,Beirut</p>
                     </div>
                   </li>
@@ -234,7 +234,7 @@ const Contact = () => {
                       </g>
                     </svg>
                     <div>
-                      <h3>Telephone:</h3>
+                      <h3>Telefonnummer:</h3>
                       <p>Tel: (+961) 3 853545</p>
                     </div>
                   </li>
@@ -275,7 +275,7 @@ const Contact = () => {
                       </g>{" "}
                     </svg>
                     <div>
-                      <h3>Email:</h3>
+                      <h3>E-mail:</h3>
                       <p>mstechsarl@gmail.com</p>
                     </div>
                   </li>
@@ -325,7 +325,7 @@ const Contact = () => {
                       </g>{" "}
                     </svg>
                     <div>
-                      <h3>Address:</h3>
+                      <h3>Adresse:</h3>
                       <p>Mittelstraße 32,45964 Gladbeck,Deutschland</p>
                     </div>
                   </li>
@@ -362,7 +362,7 @@ const Contact = () => {
                       </g>
                     </svg>
                     <div>
-                      <h3>Telephone:</h3>
+                      <h3>Telefonnummer:</h3>
                       <p>Tel: (+49) 163 4463611</p>
                     </div>
                   </li>
@@ -403,7 +403,7 @@ const Contact = () => {
                       </g>{" "}
                     </svg>
                     <div>
-                      <h3>Email:</h3>
+                      <h3>E-mail:</h3>
                       <p>info@msteck-ing.de</p>
                     </div>
                   </li>
