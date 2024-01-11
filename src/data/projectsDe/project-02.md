@@ -1,37 +1,37 @@
 ---
-#preview
-title: Lebanese American University Library & Central Administration Building.“Green Building”
+# Vorschau
+title: Lebanese American University Library & Central Administration Building. "Green Building"
 image: /img/lau.jpg
-short: "MEP Coordinator"
-location: "Lebanon - LAU Jbeil"
+short: "MEP-Koordinator"
+location: "Libanon - LAU Jbeil"
 dates: "2018"
 
-
+# Vollständige Details
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: Natcon Engineering and Contracting
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: Equip  
 
-        - label: Mechanical Consultant
+        - label: Mechanischer Berater
           value: Rafik El Khoury & Partners
 
-        - label: Duration
-          value: 3 Years 
+        - label: Dauer
+          value: 3 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2018
       
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - MEP Coordinator
+        - MEP-Koordinator
 
 slider: 
     items:
         - image: /img/lau.jpg
-          alt: "image"
+          alt: "Bild"
 ---
