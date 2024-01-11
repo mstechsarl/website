@@ -76,10 +76,7 @@ export function getFeaturedProjectsData(ids) {
 
 export function getRelatedProjects(current_id) {
   // Get file names under /posts
-  const directory = en ? projectsDirectory : projectsDirectoryDe;
-  const fileNames = en
-    ? fs.readdirSync(projectsDirectory)
-    : fs.readdirSync(projectsDirectoryDe);
+  const fileNames = fs.readdirSync(projectsDirectory);
   const allData = [];
 
   fileNames.map((fileName) => {
