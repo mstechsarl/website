@@ -1,40 +1,37 @@
 ---
-#preview
+# Preview
 title: DR. SABER RESIDENCE
 image: /img/project-pic-11.png
-short: "Drainage And Water Supply System,
-Heating System(Boiler, Solar and Radiators) and
-HVAC System(DX units)"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Boiler, Solar und Heizkörper) und HVAC-System (DX-Einheiten)"
 location: ""
 dates: "2011"
 
-
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: HAJJ CONCEPT
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L  
 
-        - label: Duration
-          value: 2 Years 
+        - label: Dauer
+          value: 2 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2011
         
 
 #full details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Boiler, Solar and Radiators)
-        - HVAC System(DX units)
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Boiler, Solar und Heizkörper)
+        - HVAC-System (DX-Einheiten)
 
 
 slider: 
     items:
         - image: /img/project-pic-11.png
-          alt: "image"
+          alt: "Bild"
 ---
