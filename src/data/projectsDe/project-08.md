@@ -1,43 +1,42 @@
 ---
-#preview
+# preview
 title: KHALIFEH VILLA
 image: /img/project-pic-8.png
-short: "Drainage And Water Supply System,
-Heating System(Gas Boiler and Radiators) and
-HVAC System(DX units)"
+short: "Entwässerungs- und Wasserversorgungssystem,
+Heizungssystem (Gasboiler und Heizkörper)
+und HVAC-System (DX-Einheiten)"
 location: ""
 dates: "2014"
 
-
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: Arab Contracting
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L  
 
-        - label: Duration
-          value: 2 Years 
+        - label: Dauer
+          value: 2 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2014
         
 
 #full details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Gas Boiler and Radiators)
-        - HVAC System(DX units)
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Gasboiler und Heizkörper)
+        - HVAC-System (DX-Einheiten)
 
 
 slider: 
     items:
         - image: /img/project-pic-8.png
-          alt: "image"
+          alt: "Bild"
 
         - image: /img/project-pic-8(1).png
-          alt: "image"
+          alt: "Bild"
 ---
