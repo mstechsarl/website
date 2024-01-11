@@ -26,7 +26,7 @@ const project_germany = () => {
             <ul>
               <li>
                 <div className="data">
-                  <h3>Project 1</h3>
+                  <h3>Projekt 1</h3>
                   <p>
                     Revert Software optimiert den iterativen Prozess für
                     Maschinenbauingenieure und ermöglicht nahtlose
@@ -54,7 +54,7 @@ const project_germany = () => {
                   </figure>
                 </div>
                 <div className="data">
-                  <h3>Project 2</h3>
+                  <h3>Projekt 2</h3>
                   <p>
                     Mit Revert wird der mechanische Entwurf zu einer dynamischen
                     Reise, die Ingenieure ermächtigt, in jedem Stadium
@@ -64,7 +64,7 @@ const project_germany = () => {
               </li>
               <li>
                 <div className="data">
-                  <h3>Project 3</h3>
+                  <h3>Projekt 3</h3>
                   <p>
                     In der Welt der mechanischen Innovation dient die
                     Revert-Software als Werkzeugkasten für Ingenieure und bietet
