@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const RelatedProjects = ({ projects, en }) => {
+const RelatedProjects = ({ projects, de }) => {
   return (
     <>
       <section className="gap no-top project-style-one extra addition">
