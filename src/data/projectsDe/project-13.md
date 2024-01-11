@@ -1,49 +1,48 @@
 ---
-#preview
+# Preview
 title: RAMADA HOTEL
 image: /img/project-pic-13.png
-short: "Drainage And Water Supply System,
-Heating System(Boiler and Fancoil units),
-HVAC System(Chiller) and Gas system"
+short: "Entwässerungs- und Wasserversorgungssystem,
+Heizungssystem (Boiler und Fancoil-Einheiten),
+HVAC-System (Chiller) und Gassystem"
 location: ""
 dates: "2009"
 
-
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: Natcon Engineering and Contracting
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L  
 
-        - label: Mechanical Consultant
+        - label: Mechanischer Berater
           value: Samir Jamous
 
-        - label: Duration
-          value: 18 Months
+        - label: Dauer
+          value: 18 Monate
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2009        
 
 #full details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Boiler and Fancoil units)
-        - HVAC System(Chiller)
-        - Gas System
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Boiler und Fancoil-Einheiten)
+        - HVAC-System (Chiller)
+        - Gassystem
 
 
 slider: 
     items:
         - image: /img/project-pic-13.png
-          alt: "image"
+          alt: "Bild"
 
         - image: /img/project-pic-13(1).png
-          alt: "image"      
+          alt: "Bild"      
 
         - image: /img/project-pic-13(2).png
-          alt: "image"    
+          alt: "Bild"    
 ---
