@@ -21,14 +21,14 @@ const RelatedProjectsDe2 = ({ projects, en }) => {
                   </figure>
                   <div className="project-data">
                     <h3>
-                      <Link href={`/${en ? "en" : "de"}/projectsDe2/${item.id}`}>
+                      <Link href={`/${en ? "en" : "de"}/projects2/${item.id}`}>
                         {item.title}
                       </Link>
                     </h3>
                     <p>{item.short}</p>
                     <Link
                       className="project-icon"
-                      href={`/${en ? "en" : "de"}/projectsDe2/${item.id}`}
+                      href={`/${en ? "en" : "de"}/projects2/${item.id}`}
                     >
                       <i className="fa-solid fa-angles-right" />
                     </Link>
