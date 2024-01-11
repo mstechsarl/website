@@ -74,7 +74,7 @@ export function getFeaturedProjectsData(ids) {
   });
 }
 
-export function getRelatedProjects(en = false) {
+export function getRelatedProjects(current_id) {
   // Get file names under /posts
   const directory = en ? projectsDirectory : projectsDirectoryDe;
   const fileNames = en
