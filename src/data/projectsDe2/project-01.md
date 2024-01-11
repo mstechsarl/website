@@ -3,7 +3,6 @@
 title: ARMEBAUPROJEKT
 image: /img/managerexp1.png
 short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Kessel und Heizkörper) und Gassystem."
-company: "Firmenprojekte"
 location: "Libanon"
 dates: "2005"
 
