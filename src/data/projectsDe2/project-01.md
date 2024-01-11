@@ -1,38 +1,38 @@
 ---
-#preview
-title: ARMY BUILDING PROJECT
+# Vorschau
+title: ARMEBAUPROJEKT
 image: /img/managerexp1.png
-short: "Drainage And Water Supply System,Heating System(Boiler and Radiators) and Gas System."
-location: "Lebanon"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Kessel und Heizkörper) und Gassystem."
+location: "Libanon"
 dates: "2005"
 
 details:
   items:
-    - label: Main Contractor
+    - label: Hauptauftragnehmer
       value: Rifaat Saad Eng. Contracting Trad.EST.
 
-    - label: Mechanical Contractor
+    - label: Mechanischer Auftragnehmer
       value: ISACO
 
-    - label: Mechanical Consultant
-      value: ARMY Organization
+    - label: Mechanischer Berater
+      value: ARMY-Organisation
 
-    - label: Duration
-      value: 2 Years
+    - label: Dauer
+      value: 2 Jahre
 
-    - label: Completion Date
+    - label: Fertigstellungsdatum
       value: 2005
 
-#full details
+# Vollständige Details
 checklist:
-  title: Scope Of Work
+  title: Leistungsumfang
   items:
-    - Drainage And Water Supply System.
-    - Heating System(Boiler and Radiators).
-    - Gas System.
+    - Entwässerungs- und Wasserversorgungssystem.
+    - Heizungssystem (Kessel und Heizkörper).
+    - Gassystem.
 
 slider:
   items:
     - image: /img/managerexp1.png
-      alt: "image"
+      alt: "Bild"
 ---
