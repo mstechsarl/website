@@ -1,40 +1,39 @@
 ---
-#preview
+# Preview
 title: ABED EL WAHAB RESIDENCE
 image: /img/project-pic-15.png
-short: "Execution of Mechanical Works,Plumbing,Fire Fighting and HVAC Systems"
+short: "Ausführung von mechanischen Arbeiten, Sanitär-, Brandschutz- und HVAC-Systemen"
 location: ""
 dates: "2006"
 
-
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: IEMMAR
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: ARCOD
 
-        - label: Duration
-          value: 3 Years 
+        - label: Dauer
+          value: 3 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2006
 
 #full details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Execution of Mechanical Works
-        - Plumbing
-        - Fire Fighting
-        - HVAC Systems
+        - Ausführung von mechanischen Arbeiten
+        - Sanitärinstallation
+        - Brandschutz
+        - HVAC-Systeme
 
 
 slider: 
     items:
         - image: /img/project-pic-15.png
-          alt: "image"
+          alt: "Bild"
         - image: /img/project-pic-15(2).png
-          alt: "image"
+          alt: "Bild"
 ---
