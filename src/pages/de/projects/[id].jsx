@@ -67,7 +67,7 @@ const ProjectDetail = (props) => {
                     <div className="row">
                       <div className="col-lg-12">
                         <div className="data">
-                          <span>Project Overview</span>
+                          <span>PROJEKTÜBERSICHT</span>
                           <h2>{postData.title}</h2>
                         </div>
                       </div>
