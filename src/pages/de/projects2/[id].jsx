@@ -11,7 +11,7 @@ import {
   getRelatedProjects,
 } from "@library/projects2";
 
-import RelatedProjectsSection from "@components/RelatedProjects2";
+import RelatedProjectsSection from "@components/RelatedProjectsDe2";
 import CallToActionSection from "@components/sections/CallToAction";
 
 const ProjectDetail = (props) => {
