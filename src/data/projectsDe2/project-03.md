@@ -1,41 +1,38 @@
 ---
-#preview
-title: GRANADA BUILDING PROJECT
+# Vorschau
+title: GRANADA BAUPROJEKT
 image: /img/managerexp3.png
-short: "Drainage And Water Supply System,Heating System and HVAC System(VRV System)."
-location: "Lebanon"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem und HVAC-System (VRV-System)."
+location: "Libanon"
 dates: "2003"
 
-
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System.
-        - Heating System.
-        - HVAC System(VRV System).
-
+        - Entwässerungs- und Wasserversorgungssystem.
+        - Heizungssystem.
+        - HVAC-System (VRV-System).
 
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: ARABIAN CONSTRUCTION COMPANY (ACC)
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: SABECO
 
-        - label: Mechanical Consultant
+        - label: Mechanischer Berater
           value: ACC
 
-        - label: Duration
-          value: 1 Year 
+        - label: Dauer
+          value: 1 Jahr 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2003
       
 slider: 
     items:
         - image: /img/managerexp3.png
-          alt: "image"
-
+          alt: "Bild"
 ---
