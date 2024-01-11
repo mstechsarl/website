@@ -21,7 +21,7 @@ details:
 checklist:
     title: Leistungsumfang
     items:
-        - Solarenergieanlage. (39 Stück Solarkollektoren
+        - Solarenergieanlage. (39 Stück Solarkollektoren,
         -2 Stück Warmwasserspeichertanks, Fassungsvermögen = 1500L jeder)
 
 
