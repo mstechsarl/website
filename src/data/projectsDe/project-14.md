@@ -2,38 +2,35 @@
 #preview
 title: LE GREY
 image: /img/project-pic-14.png
-short: "Drainage And Water Supply System,
-Heating System(Boiler and Radiators) and
-HVAC System(DX units)"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Boiler und Radiatoren) und HVAC-System (DX-Einheiten)"
 location: ""
 dates: "2008"
 
-
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: MAN
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: EQUIP
 
-        - label: Mechanical Consultant
+        - label: Mechanischer Berater
           value: Fouad Hanna
 
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2008   
 
 #full details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Boiler and Radiators)
-        - HVAC System(DX units)
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Boiler und Radiatoren)
+        - HVAC-System (DX-Einheiten)
 
 
 slider: 
     items:
         - image: /img/project-pic-14.png
-          alt: "image"
+          alt: "Bild"
 ---
