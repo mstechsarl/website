@@ -101,32 +101,7 @@ export function getRelatedProjects(current_id) {
     }
   });
   
-  export function getRelatedProjectsDe(current_id) {
-  // Get file names under /posts
-  const fileNames = fs.readdirSync(projectsDirectoryDe);
-  const allData = [];
 
-  fileNames.map((fileName) => {
-    // Remove ".md" from file name to get id
-    const id = fileName.replace(/\.md$/, "");
-
-    // Read markdown file as string
-    const fullPath = path.join(projectsDirectory, fileName);
-    const fileContents = fs.readFileSync(fullPath, "utf8");
-
-    // Use gray-matter to parse the post metadata section
-    const matterResult = matter(fileContents);
-
-    // Exclude current id from result
-
-    if (id != current_id) {
-      // Combine the data with the id
-      allData.push({
-        id,
-        ...matterResult.data,
-      });
-    }
-  });
 
   // Sort posts by date
   return allData.sort((a, b) => {
