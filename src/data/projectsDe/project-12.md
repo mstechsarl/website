@@ -1,39 +1,36 @@
 ---
-#preview
+# Preview
 title: Alfred Nemeh Residence
 image: /img/project-pic-12.png
-short: "Drainage And Water Supply System,
-Heating System(Boiler and Radiators) and
-HVAC System(DX units)"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Boiler und Heizkörper) und HVAC-System (DX-Einheiten)"
 location: ""
 dates: "2010"
 
-
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: Charbil Naameh
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L  
 
-        - label: Duration
-          value: 2 Years
+        - label: Dauer
+          value: 2 Jahre
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2010        
 
 #full details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Boiler and Radiators)
-        - HVAC System(DX units)
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Boiler und Heizkörper)
+        - HVAC-System (DX-Einheiten)
 
 
 slider: 
     items:
         - image: /img/project-pic-12.png
-          alt: "image"
+          alt: "Bild"
 ---
