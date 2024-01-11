@@ -1,33 +1,31 @@
 ---
-#preview
-title: AMERICAN UNIVERSITY OF BEIRUT(AUB)
+# Preview
+title: AMERICAN UNIVERSITY OF BEIRUT (AUB)
 image: /img/project-pic-16.png
-short: "Steam pipes from steam plant to children’s cancer center.(2005),Carpentry duct extraction.(2007),Renovation of 5 labs in the Biology Building.(2008),Renovation of lab 209 in Biology Building.(2008),Renovation of lab 108 in Agriculture.(2009),Bechtel outdoor climatic chambers.(2009),IOEC site excavation & MEP tunnel civil works.(2009),Extraction duct lab 402.(2009),Nicely Hall class rooms third floor.(2009),Science library ; 2 Nos. Package units located on roof.(2009),Cafeteria Renovation of plumbing works.(2010),College Hall Data Center.(2011) and OSB independent chiller.(2013)"
-location: "Lebanon"
+short: "Dampfleitungen vom Dampfkraftwerk zum Kinderkrebszentrum (2005), Entlüftung der Zimmermannsabzugshaube (2007), Renovierung von 5 Laboren im Biologiegebäude (2008), Renovierung von Labor 209 im Biologiegebäude (2008), Renovierung von Labor 108 in der Landwirtschaft (2009), Bechtel Outdoor-Klimakammern (2009), IOEC-Baustellenaushub und MEP-Tunnel-Bauarbeiten (2009), Entlüftungsschacht Labor 402 (2009), Klassenräume im dritten Stock von Nicely Hall (2009), Wissenschaftsbibliothek; 2 Stück Paketeinheiten auf dem Dach (2009), Cafeteria Renovierung der Sanitärarbeiten (2010), College Hall Rechenzentrum (2011) und OSB unabhängiger Kühler (2013)"
+location: "Libanon"
 dates: ""
-
 
 #full details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Steam pipes from steam plant to children’s cancer center.(2005)
-        - Carpentry duct extraction.(2007)
-        - Renovation of 5 labs in the Biology Building.(2008)
-        - Renovation of lab 209 in Biology Building.(2008)
-        - Renovation of lab 108 in Agriculture.(2009)
-        - Bechtel outdoor climatic chambers.(2009)
-        - IOEC site excavation & MEP tunnel civil works.(2009)
-        - Extraction duct lab 402.(2009)
-        - Nicely Hall class rooms third floor.(2009)
-        - Science library ; 2 Nos. Package units located on roof.(2009)
-        - Cafeteria Renovation of plumbing works.(2010)
-        - College Hall Data Center.(2011)
-        - OSB independent chiller.(2013)
-
+        - Dampfleitungen vom Dampfkraftwerk zum Kinderkrebszentrum (2005)
+        - Entlüftung der Zimmermannsabzugshaube (2007)
+        - Renovierung von 5 Laboren im Biologiegebäude (2008)
+        - Renovierung von Labor 209 im Biologiegebäude (2008)
+        - Renovierung von Labor 108 in der Landwirtschaft (2009)
+        - Bechtel Outdoor-Klimakammern (2009)
+        - IOEC-Baustellenaushub und MEP-Tunnel-Bauarbeiten (2009)
+        - Entlüftungsschacht Labor 402 (2009)
+        - Klassenräume im dritten Stock von Nicely Hall (2009)
+        - Wissenschaftsbibliothek; 2 Stück Paketeinheiten auf dem Dach (2009)
+        - Cafeteria Renovierung der Sanitärarbeiten (2010)
+        - College Hall Rechenzentrum (2011)
+        - OSB unabhängiger Kühler (2013)
 
 slider: 
     items:
         - image: /img/project-pic-16.png
-          alt: "image"
+          alt: "Bild"
 ---
