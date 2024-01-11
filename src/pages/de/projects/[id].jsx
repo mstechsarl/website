@@ -8,7 +8,7 @@ import {
   getSortedProjectsData,
   getAllProjectsIds,
   getProjectData,
-  getRelatedProjectsDe,
+  getRelatedProjects,
 } from "@library/projects";
 
 import RelatedProjectsSection from "@components/RelatedProjectsDe";
@@ -161,7 +161,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const postData = await getProjectData(params.id, false);
-  const relatedPosts = await getRelatedProjectsDe(params.id);
+  const relatedPosts = await getRelatedProjects(params.id);
   const allProjects = await getSortedProjectsData();
 
   return {
