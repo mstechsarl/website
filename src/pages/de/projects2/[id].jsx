@@ -144,7 +144,7 @@ const ProjectDetail = (props) => {
 
       <RelatedProjectsSection projects={props.related} />
 
-      <CallToActionSection en />
+      <CallToActionSection de />
     </Layouts>
   );
 };
