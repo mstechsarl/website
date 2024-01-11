@@ -2,9 +2,9 @@
 #preview
 title: COLLINA 291
 image: /img/project-pic-7.png
-short: "Drainage And Water Supply System,
-Heating System(Gas Boiler and Floor Heating) and
-HVAC System(DX units)"
+short: "Entwässerungs- und Wasserversorgungssystem,
+Heizungssystem (Gasboiler und Fußbodenheizung)
+und HVAC-System (DX-Einheiten)"
 location: ""
 dates: "2013"
 
