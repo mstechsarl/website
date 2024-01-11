@@ -5,7 +5,6 @@ short: "Solarenergieanlage. (39 Stück Solarkollektoren, 2 Stück Warmwasserspei
 location: ""
 dates: "2014"
 
-# Vollständige Details
 details:
     items:
         - label: Mechanischer Auftragnehmer
@@ -13,7 +12,6 @@ details:
 
         - label: Fertigstellungsdatum
           value: 2014
-        
 
 # Vollständige Details
 checklist:
@@ -21,11 +19,10 @@ checklist:
     items:
         - Solarenergieanlage. (39 Stück Solarkollektoren, 2 Stück Warmwasserspeichertanks, Fassungsvermögen = 1500L jeder)
 
-
-slider: 
+slider:
     items:
         - image: /img/project-pic-6.png
           alt: "Bild"
 
         - image: /img/project-pic-6(1).png
-          alt: "Bild"          
+          alt: "Bild"
