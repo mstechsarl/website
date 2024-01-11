@@ -1,49 +1,44 @@
----
-#preview
+# Vorschau
 title: COLLINA 291
 image: /img/project-pic-7.png
-short: "Drainage And Water Supply System,
-Heating System(Gas Boiler and Floor Heating) and
-HVAC System(DX units)"
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Gasboiler und Fußbodenheizung) und HVAC-System (DX-Einheiten)"
 location: ""
 dates: "2013"
 
-
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: Natcon Engineering and Contracting
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L  
 
-        - label: Mechanical Consultant
+        - label: Mechanischer Berater
           value: Fouad Hanna
 
-        - label: Duration
-          value: 2 Years 
+        - label: Dauer
+          value: 2 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2013
         
 
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Gas Boiler and Floor Heating)
-        - HVAC System(DX units)
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Gasboiler und Fußbodenheizung)
+        - HVAC-System (DX-Einheiten)
         
 
 slider: 
     items:
         - image: /img/project-pic-7.png
-          alt: "image"
+          alt: "Bild"
 
         - image: /img/project-pic-7(1).png
-          alt: "image"      
+          alt: "Bild"      
 
         - image: /img/project-pic-7(2).png
-          alt: "image"              
----
+          alt: "Bild"              
