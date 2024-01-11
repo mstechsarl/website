@@ -1,45 +1,42 @@
 ---
-#preview
-title: AL TAQWA MOSQUE
+# Vorschau
+title: AL TAQWA MOSCHEE
 image: /img/project-pic-4.png
-short: "Drainage And Water Supply System,
-Heating System(Boiler and Fancoil Units),
-HVAC System(Chiller) and
-Firefighting System."
+short: "Entwässerungs- und Wasserversorgungssystem, Heizungssystem (Kessel und Fancoil-Einheiten), HVAC-System (Kühler) und Brandschutzsystem."
 location: ""
 dates: "2017"
 
-
+# Vollständige Details
 details:
     items:
-        - label: Main Contractor
+        - label: Hauptauftragnehmer
           value: Natcon Engineering and Contracting
 
-        - label: Mechanical Contractor
+        - label: Mechanischer Auftragnehmer
           value: MSTech For Engineering S.A.R.L
 
-        - label: Mechanical Consultant
+        - label: Mechanischer Berater
           value: Samir Jamous
 
-        - label: Duration
-          value: 4 Years 
+        - label: Dauer
+          value: 4 Jahre 
         
-        - label: Completion Date
+        - label: Fertigstellungsdatum
           value: 2017
         
 
-#full details
+# Vollständige Details
 checklist:
-    title: Scope Of Work
+    title: Leistungsumfang
     items:
-        - Drainage And Water Supply System
-        - Heating System(Boiler and Fancoil Units)
-        - HVAC System(Chiller)
-        - Firefighting System
+        - Entwässerungs- und Wasserversorgungssystem
+        - Heizungssystem (Kessel und Fancoil-Einheiten)
+        - HVAC-System (Kühler)
+        - Brandschutzsystem
 
 
 slider: 
     items:
         - image: /img/project-pic-4.png
-          alt: "image"
+          alt: "Bild"
 ---
