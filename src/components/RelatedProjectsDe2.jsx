@@ -8,7 +8,7 @@ const RelatedProjectsDe2 = ({ projects, en }) => {
           <figure>
             <img src="/images/heading-icon.png" alt="Heading Icon" />
           </figure>
-          <span>Firmenprojekte</span>
+          <span>Firmenprojekte </span>
           <h2>Verwandte Projekte</h2>
         </div>
         <div className="container">
