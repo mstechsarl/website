@@ -2,46 +2,46 @@
   "items": [
     {
       "image": "img/hero-1.jpg",
-      "title": " Welcome to MSTech for engineering",
-      "text": "Our Company has consistently embraced innovation to provide a superior level of excellence for our customers.",
+      "title": "Willkommen bei MSTech für Ingenieurwesen",
+      "text": "Unsere Firma hat Innovation konsequent angenommen, um unseren Kunden eine überragende Exzellenz zu bieten.",
       "button": {
-        "label": "Contact Us",
+        "label": "Kontaktiere uns",
         "link": "/de/contact"
       }
     },
     {
       "image": "img/hero-2.jpg",
-      "title": "A Better Way To Plan",
-      "text": "Precision in planning defines the excellence of our mechanical contracting company, guaranteeing seamless and successful project execution.",
+      "title": "Ein besseres Planungskonzept",
+      "text": "Präzision in der Planung definiert die Exzellenz unseres Unternehmen im Bereich mechanischer Auftragsvergabe und garantiert eine reibungslose und erfolgreiche Projektausführung.",
       "button": {
-        "label": "Contact Us",
+        "label": "Kontaktiere uns",
         "link": "/de/contact"
       }
     },
     {
       "image": "img/hero-3.jpg",
-      "title": "Guiding Businesses to Success",
-      "text": "Our consultancy services serve as the guiding force, enhancing the efficiency and success of our contracting projects through strategic insights and expert guidance.",
+      "title": "Unternehmen zum Erfolg führen",
+      "text": "Unsere Beratungsdienstleistungen dienen als Leitkraft, die Effizienz und den Erfolg unserer Auftragsprojekte durch strategische Einblicke und Expertenberatung verbessert.",
       "button": {
-        "label": "Contact Us",
+        "label": "Kontaktiere uns",
         "link": "/de/contact"
       }
     },
     {
       "image": "img/hero-5.jpg",
-      "title": " Project Management from Planning to Achievement",
-      "text": "Orchestrating streamlined excellence, ensuring efficient operations, and providing strategic direction for success in contracting endeavors.",
+      "title": "Projektmanagement von der Planung bis zur Umsetzung",
+      "text": "Orchestrierung von gestraffter Exzellenz, Gewährleistung effizienter Abläufe und Bereitstellung strategischer Richtlinien für Erfolg in Auftragsvorhaben.",
       "button": {
-        "label": "Contact Us",
+        "label": "Kontaktiere uns",
         "link": "/de/contact"
       }
     },
     {
       "image": "img/hero-4.jpg",
-      "title": "Expert Installations for Superior Performance",
-      "text": "Ensuring client satisfaction, optimal system performance, compliance with regulations, and overall safety in our mechanical contracting company.",
+      "title": "Experteneinrichtungen für überragende Leistung",
+      "text": "Gewährleistung von Kundenzufriedenheit, optimaler Systemleistung, Einhaltung von Vorschriften und insgesamt Sicherheit in unserem Unternehmen für mechanische Auftragsvergabe.",
       "button": {
-        "label": "Contact Us",
+        "label": "Kontaktiere uns",
         "link": "/de/contact"
       }
     }
