@@ -45,7 +45,7 @@ const PageBanner = ({ pageTitle, pageDesc, where, en }) => {
               ) : (
                 <ul>
                   <li>
-                    <Link href="/">
+                     <Link href={`/${en ? "en" : "de"}`}>
                       <i className="fa-solid fa-house"></i>
                       <p>Home</p>
                     </Link>
