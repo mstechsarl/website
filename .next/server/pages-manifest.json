@@ -1,6 +1,9 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/de/projects": "pages/de/projects.js"
+  "/_error": "pages/_error.js",
+  "/de/projects/[id]": "pages/de/projects/[id].js",
+  "/de/projects2/[id]": "pages/de/projects2/[id].js",
+  "/en/projects2/[id]": "pages/en/projects2/[id].js",
+  "/de/manager_experience": "pages/de/manager_experience.js"
 }

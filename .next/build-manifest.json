@@ -25,10 +25,25 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/de/projects": [
+    "/de/manager_experience": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/de/projects.js"
+      "static/chunks/pages/de/manager_experience.js"
+    ],
+    "/de/projects/[id]": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/de/projects/[id].js"
+    ],
+    "/de/projects2/[id]": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/de/projects2/[id].js"
+    ],
+    "/en/projects2/[id]": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/en/projects2/[id].js"
     ]
   },
   "ampFirstPages": []

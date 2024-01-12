@@ -74,9 +74,10 @@ export function getFeaturedProjectsData(ids) {
   });
 }
 
-export function getRelatedProjects(current_id) {
+export function getRelatedProjects(current_id, en) {
   // Get file names under /posts
-  const fileNames = fs.readdirSync(projectsDirectory);
+  const directory = en ? projectsDirectory : projectsDirectoryDe;
+  const fileNames = fs.readdirSync(directory);
   const allData = [];
 
   fileNames.map((fileName) => {
@@ -84,7 +85,7 @@ export function getRelatedProjects(current_id) {
     const id = fileName.replace(/\.md$/, "");
 
     // Read markdown file as string
-    const fullPath = path.join(projectsDirectory, fileName);
+    const fullPath = path.join(directory, fileName);
     const fileContents = fs.readFileSync(fullPath, "utf8");
 
     // Use gray-matter to parse the post metadata section

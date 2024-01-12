@@ -161,7 +161,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const postData = await getProjectData(params.id, true);
-  const relatedPosts = await getRelatedProjects(params.id);
+  const relatedPosts = await getRelatedProjects(params.id,true);
   const allProjects = await getSortedProjectsData(true);
 
   return {
